@@ -1,0 +1,1402 @@
+Query ID: 3990512
+Query: get concentr someth
+Average Precision: 0.6652116402116401
+Recall: 0.08333333333333333
+Reciprocal Rank: 1.0
+AP: 1.1666666666666667
+--------------------------------------
+Query ID: 714612
+Query: doesnt water fall earth round
+Average Precision: 0.3466931216931217
+Recall: 0.13333333333333333
+Reciprocal Rank: 0.5
+AP: 0.6361111111111111
+--------------------------------------
+Query ID: 2528767
+Query: determin charg iron ion feel3
+Average Precision: 0.2058201058201058
+Recall: 0.13043478260869565
+Reciprocal Rank: 0.25
+AP: 0.40277777777777773
+--------------------------------------
+Query ID: 821387
+Query: micehow get rid human
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 1880028
+Query: see leaflet mean pt pregnanc test
+Average Precision: 0.5298941798941799
+Recall: 0.12903225806451613
+Reciprocal Rank: 1.0
+AP: 0.7048611111111112
+--------------------------------------
+Query ID: 4448097
+Query: innat immun
+Average Precision: 0.6475749559082892
+Recall: 0.16666666666666666
+Reciprocal Rank: 1.0
+AP: 0.6749999999999999
+--------------------------------------
+Query ID: 1287437
+Query: lose 30 pound june3
+Average Precision: 0.5175485008818342
+Recall: 0.06060606060606061
+Reciprocal Rank: 1.0
+AP: 1.0
+--------------------------------------
+Query ID: 2956570
+Query: word write sound raindrop move train scrambl w pencil paper figur
+Average Precision: 0.6652116402116401
+Recall: 0.13793103448275862
+Reciprocal Rank: 1.0
+AP: 0.9861111111111112
+--------------------------------------
+Query ID: 1351675
+Query: must unrank windshield order car pass safeti inspect
+Average Precision: 0.026234567901234566
+Recall: 0.03225806451612903
+Reciprocal Rank: 0.125
+AP: 0.14285714285714285
+--------------------------------------
+Query ID: 1783010
+Query: blasphemi
+Average Precision: 0.1835978835978836
+Recall: 0.16666666666666666
+Reciprocal Rank: 0.25
+AP: 0.36944444444444446
+--------------------------------------
+Query ID: 2799913
+Query: what proper way express sorrow funer
+Average Precision: 0.42495590828924157
+Recall: 0.05405405405405406
+Reciprocal Rank: 1.0
+AP: 0.3333333333333333
+--------------------------------------
+Query ID: 2142044
+Query: specul happen natali holloway area
+Average Precision: 0.7716490299823633
+Recall: 0.21739130434782608
+Reciprocal Rank: 1.0
+AP: 1.0
+--------------------------------------
+Query ID: 707303
+Query: peopl get pickup exactli best way cure
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 676028
+Query: elect feder senat congressmen live regular like rest unit state
+Average Precision: 0.21556437389770722
+Recall: 0.06451612903225806
+Reciprocal Rank: 0.5
+AP: 0.625
+--------------------------------------
+Query ID: 2484180
+Query: peopl judg dog look like
+Average Precision: 0.6281746031746032
+Recall: 0.08333333333333333
+Reciprocal Rank: 1.0
+AP: 1.0
+--------------------------------------
+Query ID: 2307305
+Query: man rape littl girl
+Average Precision: 0.3564373897707231
+Recall: 0.06451612903225806
+Reciprocal Rank: 1.0
+AP: 0.16666666666666666
+--------------------------------------
+Query ID: 2814599
+Query: word remiss mean refer cancer patient
+Average Precision: 0.8586860670194003
+Recall: 0.21739130434782608
+Reciprocal Rank: 1.0
+AP: 1.2166666666666666
+--------------------------------------
+Query ID: 3369088
+Query: stop spread islam
+Average Precision: 0.11507936507936506
+Recall: 0.06818181818181818
+Reciprocal Rank: 0.16666666666666666
+AP: 0.30277777777777776
+--------------------------------------
+Query ID: 1702151
+Query: patient driver
+Average Precision: 0.06062610229276896
+Recall: 0.058823529411764705
+Reciprocal Rank: 0.16666666666666666
+AP: 0.2111111111111111
+--------------------------------------
+Query ID: 851124
+Query: ego part surviv instinct
+Average Precision: 0.5175485008818342
+Recall: 0.06666666666666667
+Reciprocal Rank: 1.0
+AP: 1.0
+--------------------------------------
+Query ID: 3698636
+Query: cat headbutt
+Average Precision: 0.31432980599647264
+Recall: 0.025
+Reciprocal Rank: 1.0
+AP: 0.0
+--------------------------------------
+Query ID: 1844896
+Query: cook angu burger
+Average Precision: 0.7881834215167548
+Recall: 0.16666666666666666
+Reciprocal Rank: 1.0
+AP: 1.0916666666666666
+--------------------------------------
+Query ID: 2290758
+Query: peopl ask question know
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 143833
+Query: differ coolant anti-freez
+Average Precision: 0.6610229276895944
+Recall: 0.15384615384615385
+Reciprocal Rank: 1.0
+AP: 0.8875
+--------------------------------------
+Query ID: 3910925
+Query: warn contagi
+Average Precision: 0.6425044091710759
+Recall: 0.1
+Reciprocal Rank: 1.0
+AP: 0.8541666666666666
+--------------------------------------
+Query ID: 2643507
+Query: milk cost ga per gallon
+Average Precision: 0.8785714285714286
+Recall: 0.20588235294117646
+Reciprocal Rank: 1.0
+AP: 1.0873015873015872
+--------------------------------------
+Query ID: 1502604
+Query: brook make fake passport
+Average Precision: 0.012345679012345678
+Recall: 0.029411764705882353
+Reciprocal Rank: 0.1111111111111111
+AP: 0.125
+--------------------------------------
+Query ID: 4283542
+Query: loos tool weekhow make stop
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 3554263
+Query: peopl behav rude without reason due problem
+Average Precision: 0.147663139329806
+Recall: 0.029411764705882353
+Reciprocal Rank: 0.3333333333333333
+AP: 0.5
+--------------------------------------
+Query ID: 3313308
+Query: enjoy time alon
+Average Precision: 0.147663139329806
+Recall: 0.025
+Reciprocal Rank: 0.3333333333333333
+AP: 0.5
+--------------------------------------
+Query ID: 4357460
+Query: make car faster
+Average Precision: 0.3673721340388007
+Recall: 0.09090909090909091
+Reciprocal Rank: 0.3333333333333333
+AP: 0.6220238095238095
+--------------------------------------
+Query ID: 2582920
+Query: differ dri plum dri prune
+Average Precision: 1.0
+Recall: 0.37037037037037035
+Reciprocal Rank: 1.0
+AP: 1.1828968253968253
+--------------------------------------
+Query ID: 4462511
+Query: know gold fish pregnant
+Average Precision: 0.31432980599647264
+Recall: 0.04
+Reciprocal Rank: 1.0
+AP: 0.0
+--------------------------------------
+Query ID: 2795030
+Query: peopl drink curv tast go come
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 312215
+Query: good appl pie cold
+Average Precision: 0.6856701940035274
+Recall: 0.3103448275862069
+Reciprocal Rank: 0.5
+AP: 1.0
+--------------------------------------
+Query ID: 3363149
+Query: arab mexican look alik
+Average Precision: 0.28606701940035273
+Recall: 0.07142857142857142
+Reciprocal Rank: 0.5
+AP: 0.75
+--------------------------------------
+Query ID: 1944018
+Query: cant teenag vote
+Average Precision: 0.7758377425044092
+Recall: 0.08163265306122448
+Reciprocal Rank: 1.0
+AP: 1.2083333333333333
+--------------------------------------
+Query ID: 788976
+Query: bush admin cover 911
+Average Precision: 0.31432980599647264
+Recall: 0.022222222222222223
+Reciprocal Rank: 1.0
+AP: 0.0
+--------------------------------------
+Query ID: 4385316
+Query: keep black bird bar-b-qu grill
+Average Precision: 0.31891534391534393
+Recall: 0.08571428571428572
+Reciprocal Rank: 0.3333333333333333
+AP: 0.5888888888888889
+--------------------------------------
+Query ID: 551239
+Query: find someon leave life insur polici
+Average Precision: 0.8488095238095238
+Recall: 0.20689655172413793
+Reciprocal Rank: 1.0
+AP: 1.097222222222222
+--------------------------------------
+Query ID: 3499881
+Query: gordon ramsey popular
+Average Precision: 0.6544091710758377
+Recall: 0.09523809523809523
+Reciprocal Rank: 1.0
+AP: 0.8928571428571428
+--------------------------------------
+Query ID: 4311093
+Query: hot air rise
+Average Precision: 1.0
+Recall: 0.3
+Reciprocal Rank: 1.0
+AP: 1.1908730158730156
+--------------------------------------
+Query ID: 4256593
+Query: remov sim card lt x8300 cell phone
+Average Precision: 0.7372574955908289
+Recall: 0.21739130434782608
+Reciprocal Rank: 1.0
+AP: 0.9428571428571428
+--------------------------------------
+Query ID: 1017690
+Query: histori indian music
+Average Precision: 0.6652116402116401
+Recall: 0.1111111111111111
+Reciprocal Rank: 1.0
+AP: 1.1666666666666667
+--------------------------------------
+Query ID: 667488
+Query: soon drive newli pave driveway
+Average Precision: 0.6491181657848324
+Recall: 0.3333333333333333
+Reciprocal Rank: 1.0
+AP: 0.7088789682539682
+--------------------------------------
+Query ID: 3507491
+Query: religi freedom import today
+Average Precision: 0.5561287477954145
+Recall: 0.11764705882352941
+Reciprocal Rank: 1.0
+AP: 0.7321428571428571
+--------------------------------------
+Query ID: 2634143
+Query: direct borrow phonolog borrow linguist borrow cultur borrowingintim borrow
+Average Precision: 0.20321869488536154
+Recall: 0.06666666666666667
+Reciprocal Rank: 0.5
+AP: 0.6111111111111112
+--------------------------------------
+Query ID: 3396066
+Query: airplan fli high
+Average Precision: 0.5720017636684304
+Recall: 0.11428571428571428
+Reciprocal Rank: 1.0
+AP: 0.75
+--------------------------------------
+Query ID: 2892478
+Query: factor caus earth heat uneven
+Average Precision: 0.6652116402116401
+Recall: 0.11538461538461539
+Reciprocal Rank: 1.0
+AP: 1.1666666666666667
+--------------------------------------
+Query ID: 3155314
+Query: pork chop real chop lamb chop beef chop
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 785823
+Query: librari consid heart univers
+Average Precision: 0.05445326278659612
+Recall: 0.06666666666666667
+Reciprocal Rank: 0.14285714285714285
+AP: 0.20833333333333331
+--------------------------------------
+Query ID: 2815090
+Query: clone affect commun
+Average Precision: 0.8565255731922399
+Recall: 0.25806451612903225
+Reciprocal Rank: 1.0
+AP: 1.0359623015873014
+--------------------------------------
+Query ID: 2713171
+Query: sentenc mean
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 1821193
+Query: peopl fee poison sugar kid easter chocol jesu
+Average Precision: 0.5710758377425045
+Recall: 0.0975609756097561
+Reciprocal Rank: 1.0
+AP: 0.5803571428571428
+--------------------------------------
+Query ID: 4185501
+Query: sun shine
+Average Precision: 0.6049823633156967
+Recall: 0.14285714285714285
+Reciprocal Rank: 0.5
+AP: 1.0
+--------------------------------------
+Query ID: 4473331
+Query: keep habit indoor
+Average Precision: 0.4882275132275131
+Recall: 0.09375
+Reciprocal Rank: 1.0
+AP: 0.4761904761904762
+--------------------------------------
+Query ID: 4190287
+Query: switch school depress
+Average Precision: 0.11062610229276897
+Recall: 0.08333333333333333
+Reciprocal Rank: 0.25
+AP: 0.2777777777777778
+--------------------------------------
+Query ID: 1937374
+Query: get 277 v
+Average Precision: 0.20321869488536154
+Recall: 0.03571428571428571
+Reciprocal Rank: 0.5
+AP: 1.0
+--------------------------------------
+Query ID: 1459749
+Query: dont asthma attack sex
+Average Precision: 0.5869488536155203
+Recall: 0.15384615384615385
+Reciprocal Rank: 1.0
+AP: 0.6041666666666666
+--------------------------------------
+Query ID: 23464
+Query: girl beauti
+Average Precision: 0.6003968253968254
+Recall: 0.11538461538461539
+Reciprocal Rank: 1.0
+AP: 0.9166666666666666
+--------------------------------------
+Query ID: 4377861
+Query: handset sequel
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 3385681
+Query: red bull soo bad peopl soo popular
+Average Precision: 0.6147266313932981
+Recall: 0.08
+Reciprocal Rank: 1.0
+AP: 0.6666666666666666
+--------------------------------------
+Query ID: 1794677
+Query: treat ann scar
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 3301173
+Query: design road crust nation highway
+Average Precision: 0.42940917107583776
+Recall: 0.1724137931034483
+Reciprocal Rank: 1.0
+AP: 0.3911111111111111
+--------------------------------------
+Query ID: 204633
+Query: memori
+Average Precision: 0.4170634920634921
+Recall: 0.09375
+Reciprocal Rank: 1.0
+AP: 0.3
+--------------------------------------
+Query ID: 3960080
+Query: dont commerci plane fli north pole
+Average Precision: 0.5884920634920635
+Recall: 0.23076923076923078
+Reciprocal Rank: 1.0
+AP: 0.5912698412698413
+--------------------------------------
+Query ID: 1262692
+Query: get rid simpl back
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 558570
+Query: citi put ban pit bull revers decis
+Average Precision: 0.783994708994709
+Recall: 0.21428571428571427
+Reciprocal Rank: 1.0
+AP: 0.9583333333333334
+--------------------------------------
+Query ID: 1167882
+Query: differ type sin caus
+Average Precision: 0.012345679012345678
+Recall: 0.03333333333333333
+Reciprocal Rank: 0.1111111111111111
+AP: 0.125
+--------------------------------------
+Query ID: 3295055
+Query: caus skin discolor specif widen skin finger
+Average Precision: 0.2926807760141093
+Recall: 0.15151515151515152
+Reciprocal Rank: 0.25
+AP: 0.525952380952381
+--------------------------------------
+Query ID: 100653
+Query: go get copi letter commend present citi san diego
+Average Precision: 1.0
+Recall: 0.3125
+Reciprocal Rank: 1.0
+AP: 1.1828968253968253
+--------------------------------------
+Query ID: 2619912
+Query: save sin-and bear jesu say except recent bear didyou
+Average Precision: 0.17389770723104053
+Recall: 0.06060606060606061
+Reciprocal Rank: 0.3333333333333333
+AP: 0.39285714285714285
+--------------------------------------
+Query ID: 1663853
+Query: wet dream
+Average Precision: 0.31432980599647264
+Recall: 0.05714285714285714
+Reciprocal Rank: 1.0
+AP: 0.1111111111111111
+--------------------------------------
+Query ID: 2592121
+Query: rollov 401k real estat
+Average Precision: 0.6491181657848324
+Recall: 0.25
+Reciprocal Rank: 1.0
+AP: 0.7088789682539682
+--------------------------------------
+Query ID: 2182052
+Query: lemonad restaur sometim differ
+Average Precision: 0.9578924162257495
+Recall: 0.32142857142857145
+Reciprocal Rank: 1.0
+AP: 1.1425925925925926
+--------------------------------------
+Query ID: 1623623
+Query: improv fuel effici 2004 ford icon
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 3078448
+Query: prevent chicken dri cook
+Average Precision: 0.31432980599647264
+Recall: 0.025
+Reciprocal Rank: 1.0
+AP: 0.0
+--------------------------------------
+Query ID: 3074429
+Query: understand islam muslim better
+Average Precision: 0.7758377425044092
+Recall: 0.10256410256410256
+Reciprocal Rank: 1.0
+AP: 1.2083333333333333
+--------------------------------------
+Query ID: 1119420
+Query: well black light light black light
+Average Precision: 0.5400352733686067
+Recall: 0.1875
+Reciprocal Rank: 1.0
+AP: 0.5375
+--------------------------------------
+Query ID: 1290612
+Query: anxieti depress seem coexist
+Average Precision: 0.6652116402116401
+Recall: 0.09375
+Reciprocal Rank: 1.0
+AP: 1.1666666666666667
+--------------------------------------
+Query ID: 2529114
+Query: sinc prematur evacu problem satisfi girl
+Average Precision: 0.5988536155202823
+Recall: 0.11428571428571428
+Reciprocal Rank: 1.0
+AP: 0.6428571428571428
+--------------------------------------
+Query ID: 204963
+Query: 5 5 mean
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 4367654
+Query: april 19th import
+Average Precision: 0.4115079365079365
+Recall: 0.07142857142857142
+Reciprocal Rank: 0.5
+AP: 0.8666666666666667
+--------------------------------------
+Query ID: 3639660
+Query: cigarett yellow filter
+Average Precision: 0.04210758377425044
+Recall: 0.047619047619047616
+Reciprocal Rank: 0.14285714285714285
+AP: 0.16666666666666666
+--------------------------------------
+Query ID: 4197214
+Query: gt feel like miss sexual intercours
+Average Precision: 0.7361552028218695
+Recall: 0.17073170731707318
+Reciprocal Rank: 1.0
+AP: 0.7950680272108844
+--------------------------------------
+Query ID: 1015624
+Query: what definit bloodi mari
+Average Precision: 0.852336860670194
+Recall: 0.4090909090909091
+Reciprocal Rank: 1.0
+AP: 1.0
+--------------------------------------
+Query ID: 1082595
+Query: mean mobil technolog
+Average Precision: 0.38267195767195766
+Recall: 0.15789473684210525
+Reciprocal Rank: 1.0
+AP: 0.25396825396825395
+--------------------------------------
+Query ID: 3239329
+Query: wee lot cold weather especi night
+Average Precision: 0.31432980599647264
+Recall: 0.027777777777777776
+Reciprocal Rank: 1.0
+AP: 0.0
+--------------------------------------
+Query ID: 3874326
+Query: come compton design black peopl
+Average Precision: 0.7031305114638449
+Recall: 0.14285714285714285
+Reciprocal Rank: 1.0
+AP: 0.8766666666666666
+--------------------------------------
+Query ID: 1254390
+Query: dead fri chicken
+Average Precision: 1.0
+Recall: 0.3333333333333333
+Reciprocal Rank: 1.0
+AP: 1.1828968253968253
+--------------------------------------
+Query ID: 4018891
+Query: know particular term phrase copyright
+Average Precision: 0.6861552028218694
+Recall: 0.08333333333333333
+Reciprocal Rank: 1.0
+AP: 0.73078231292517
+--------------------------------------
+Query ID: 3552010
+Query: parent put kid restrict
+Average Precision: 0.3405643738977072
+Recall: 0.06060606060606061
+Reciprocal Rank: 1.0
+AP: 0.14285714285714285
+--------------------------------------
+Query ID: 1968489
+Query: auto insur use
+Average Precision: 0.45361552028218693
+Recall: 0.125
+Reciprocal Rank: 0.5
+AP: 0.8166666666666667
+--------------------------------------
+Query ID: 443848
+Query: anybodi know could get free guid train nigerian duski
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 4372730
+Query: doesnt bibl make sens
+Average Precision: 0.20321869488536154
+Recall: 0.015625
+Reciprocal Rank: 0.5
+AP: 1.0
+--------------------------------------
+Query ID: 896725
+Query: good exercis get rid love handl
+Average Precision: 0.026234567901234566
+Recall: 0.034482758620689655
+Reciprocal Rank: 0.125
+AP: 0.14285714285714285
+--------------------------------------
+Query ID: 2180086
+Query: moment
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 34041
+Query: symptom step throat
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 229303
+Query: war continu afghanistan
+Average Precision: 0.4619929453262786
+Recall: 0.08333333333333333
+Reciprocal Rank: 1.0
+AP: 0.4444444444444444
+--------------------------------------
+Query ID: 2446614
+Query: could u get success
+Average Precision: 0.6718253968253969
+Recall: 0.20588235294117646
+Reciprocal Rank: 1.0
+AP: 0.7202947845804989
+--------------------------------------
+Query ID: 654124
+Query: abl concentr studi
+Average Precision: 0.2541005291005291
+Recall: 0.10344827586206896
+Reciprocal Rank: 0.25
+AP: 0.4777777777777777
+--------------------------------------
+Query ID: 3577501
+Query: sign puberti begin
+Average Precision: 0.9193121693121693
+Recall: 0.2222222222222222
+Reciprocal Rank: 1.0
+AP: 1.2138888888888888
+--------------------------------------
+Query ID: 8293
+Query: men fantasi rape women
+Average Precision: 0.4011904761904762
+Recall: 0.12
+Reciprocal Rank: 1.0
+AP: 0.27619047619047615
+--------------------------------------
+Query ID: 4012558
+Query: term milki way
+Average Precision: 0.6003968253968254
+Recall: 0.13043478260869565
+Reciprocal Rank: 1.0
+AP: 0.9166666666666666
+--------------------------------------
+Query ID: 922849
+Query: peopl take life serious
+Average Precision: 0.9316578483245149
+Recall: 0.13333333333333333
+Reciprocal Rank: 1.0
+AP: 1.1309027777777778
+--------------------------------------
+Query ID: 2976644
+Query: amoeba catch prey
+Average Precision: 0.6975749559082893
+Recall: 0.2
+Reciprocal Rank: 1.0
+AP: 0.7666666666666667
+--------------------------------------
+Query ID: 1866981
+Query: know get
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 4467100
+Query: sholomist mean
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 2551845
+Query: gt dog get bl yet kill zardari non-ev
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 3559048
+Query: sell junk car without titl
+Average Precision: 0.6775573192239859
+Recall: 0.21739130434782608
+Reciprocal Rank: 1.0
+AP: 0.9111111111111111
+--------------------------------------
+Query ID: 823384
+Query: armi person cut mid 1990
+Average Precision: 0.5807760141093473
+Recall: 0.1935483870967742
+Reciprocal Rank: 1.0
+AP: 0.5847222222222223
+--------------------------------------
+Query ID: 849221
+Query: come religion dont peopl realiz histori repeat
+Average Precision: 0.4516313932980599
+Recall: 0.1111111111111111
+Reciprocal Rank: 1.0
+AP: 0.4111111111111111
+--------------------------------------
+Query ID: 3280768
+Query: islam hate america
+Average Precision: 0.22835097001763666
+Recall: 0.13513513513513514
+Reciprocal Rank: 0.3333333333333333
+AP: 0.46349206349206346
+--------------------------------------
+Query ID: 4288761
+Query: stop husband exhum babi bodi compens
+Average Precision: 0.6652116402116401
+Recall: 0.06666666666666667
+Reciprocal Rank: 1.0
+AP: 1.1666666666666667
+--------------------------------------
+Query ID: 2847807
+Query: get rid cup
+Average Precision: 0.11062610229276897
+Recall: 0.03333333333333333
+Reciprocal Rank: 0.25
+AP: 0.3333333333333333
+--------------------------------------
+Query ID: 2018562
+Query: black lab howl law order theme song
+Average Precision: 0.9270282186948854
+Recall: 0.22580645161290322
+Reciprocal Rank: 1.0
+AP: 1.1547619047619047
+--------------------------------------
+Query ID: 1035857
+Query: liber quick defend adam
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 2008017
+Query: black peopl like fri chicken
+Average Precision: 0.6491181657848324
+Recall: 0.23529411764705882
+Reciprocal Rank: 1.0
+AP: 0.7088789682539682
+--------------------------------------
+Query ID: 1862795
+Query: spend prolong time micrograv affect bodi astronaut
+Average Precision: 0.5118165784832451
+Recall: 0.16
+Reciprocal Rank: 1.0
+AP: 0.4595238095238095
+--------------------------------------
+Query ID: 421753
+Query: get rid skunk
+Average Precision: 0.5298941798941799
+Recall: 0.0975609756097561
+Reciprocal Rank: 1.0
+AP: 0.7048611111111112
+--------------------------------------
+Query ID: 1477322
+Query: peopl say german racist
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 1607728
+Query: caus gray facial hair men
+Average Precision: 0.8770282186948852
+Recall: 0.2962962962962963
+Reciprocal Rank: 1.0
+AP: 1.0486111111111112
+--------------------------------------
+Query ID: 103830
+Query: man arab hate west
+Average Precision: 0.7258377425044091
+Recall: 0.16
+Reciprocal Rank: 1.0
+AP: 1.075
+--------------------------------------
+Query ID: 3971195
+Query: get pinbal aggress
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 4153592
+Query: make someon ear stink
+Average Precision: 0.12896825396825395
+Recall: 0.06818181818181818
+Reciprocal Rank: 0.16666666666666666
+AP: 0.3206349206349206
+--------------------------------------
+Query ID: 2382487
+Query: start period like almost 6 month
+Average Precision: 0.5175485008818342
+Recall: 0.03636363636363636
+Reciprocal Rank: 1.0
+AP: 1.0
+--------------------------------------
+Query ID: 2380990
+Query: aliv
+Average Precision: 0.6167548500881834
+Recall: 0.11627906976744186
+Reciprocal Rank: 1.0
+AP: 0.7592857142857143
+--------------------------------------
+Query ID: 484496
+Query: man float water die
+Average Precision: 0.0
+Recall: 0.029411764705882353
+Reciprocal Rank: 0.1
+AP: 0.1111111111111111
+--------------------------------------
+Query ID: 4003223
+Query: market gimmick attract male
+Average Precision: 0.7917107583774251
+Recall: 0.2
+Reciprocal Rank: 1.0
+AP: 0.9379251700680271
+--------------------------------------
+Query ID: 4185395
+Query: cure std sexual transmit diseas
+Average Precision: 1.0
+Recall: 0.3
+Reciprocal Rank: 1.0
+AP: 1.1908730158730156
+--------------------------------------
+Query ID: 1292734
+Query: color like
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 3389038
+Query: media unit state europ alway attack arab islam without find truth
+Average Precision: 0.5175485008818342
+Recall: 0.058823529411764705
+Reciprocal Rank: 1.0
+AP: 1.0
+--------------------------------------
+Query ID: 474417
+Query: prefix cycl mean greek mytholog
+Average Precision: 0.7258377425044091
+Recall: 0.125
+Reciprocal Rank: 1.0
+AP: 1.075
+--------------------------------------
+Query ID: 3278654
+Query: kamikaz pilot wear helmet
+Average Precision: 0.904805996472663
+Recall: 0.24242424242424243
+Reciprocal Rank: 1.0
+AP: 1.0902777777777777
+--------------------------------------
+Query ID: 4365565
+Query: water pressur chang
+Average Precision: 0.5726190476190476
+Recall: 0.0967741935483871
+Reciprocal Rank: 1.0
+AP: 0.6666666666666666
+--------------------------------------
+Query ID: 354733
+Query: name famou photograph work stand
+Average Precision: 0.0
+Recall: 0.030303030303030304
+Reciprocal Rank: 0.1
+AP: 0.1111111111111111
+--------------------------------------
+Query ID: 224109
+Query: citriscid
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 4126337
+Query: friend buy
+Average Precision: 0.5175485008818342
+Recall: 0.046511627906976744
+Reciprocal Rank: 1.0
+AP: 1.0
+--------------------------------------
+Query ID: 1957887
+Query: hunt punch peopl keep spam
+Average Precision: 0.5118165784832451
+Recall: 0.1388888888888889
+Reciprocal Rank: 1.0
+AP: 0.47873015873015873
+--------------------------------------
+Query ID: 78762
+Query: pterofobia
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 159716
+Query: find inmat southwest detent center 30755 auld rd murrieta 92563
+Average Precision: 0.38218694885361554
+Recall: 0.14705882352941177
+Reciprocal Rank: 0.5
+AP: 0.6587301587301587
+--------------------------------------
+Query ID: 481173
+Query: live miseri
+Average Precision: 0.8893738977072309
+Recall: 0.23684210526315788
+Reciprocal Rank: 1.0
+AP: 1.0555555555555556
+--------------------------------------
+Query ID: 2814722
+Query: new jersey smoke ban consid unconstitut
+Average Precision: 0.7571428571428572
+Recall: 0.15384615384615385
+Reciprocal Rank: 1.0
+AP: 0.9150793650793649
+--------------------------------------
+Query ID: 3040435
+Query: usa snow hurrican flood earthquak politician brazil politician
+Average Precision: 0.07297178130511464
+Recall: 0.07407407407407407
+Reciprocal Rank: 0.16666666666666666
+AP: 0.225
+--------------------------------------
+Query ID: 953489
+Query: dumb time though highli undereduc
+Average Precision: 0.245326278659612
+Recall: 0.058823529411764705
+Reciprocal Rank: 0.5
+AP: 0.6666666666666666
+--------------------------------------
+Query ID: 2309774
+Query: keep see peopl miss soldier iraq
+Average Precision: 0.0
+Recall: 0.022727272727272728
+Reciprocal Rank: 0.1
+AP: 0.1111111111111111
+--------------------------------------
+Query ID: 1152934
+Query: dont fat peopl pay air travel
+Average Precision: 0.31432980599647264
+Recall: 0.030303030303030304
+Reciprocal Rank: 1.0
+AP: 0.0
+--------------------------------------
+Query ID: 387874
+Query: asparugu make pee stink
+Average Precision: 0.5175485008818342
+Recall: 0.1
+Reciprocal Rank: 1.0
+AP: 1.0
+--------------------------------------
+Query ID: 2291272
+Query: catholic christian
+Average Precision: 0.9578924162257495
+Recall: 0.1875
+Reciprocal Rank: 1.0
+AP: 1.1425925925925926
+--------------------------------------
+Query ID: 3411123
+Query: doesnt america regard foreign credenti
+Average Precision: 0.3564373897707231
+Recall: 0.05263157894736842
+Reciprocal Rank: 1.0
+AP: 0.16666666666666666
+--------------------------------------
+Query ID: 4165406
+Query: founder daewoo get 10-year jail sentenc
+Average Precision: 0.6147266313932981
+Recall: 0.16666666666666666
+Reciprocal Rank: 1.0
+AP: 0.6444444444444445
+--------------------------------------
+Query ID: 2418598
+Query: wisdom vari person person
+Average Precision: 0.5175485008818342
+Recall: 0.05405405405405406
+Reciprocal Rank: 1.0
+AP: 1.0
+--------------------------------------
+Query ID: 3496147
+Query: punish christin
+Average Precision: 0.0
+Recall: 0.020833333333333332
+Reciprocal Rank: 0.1
+AP: 0.1111111111111111
+--------------------------------------
+Query ID: 2452795
+Query: heat water within 150 gal tank that open atmospher februari
+Average Precision: 0.2503968253968254
+Recall: 0.125
+Reciprocal Rank: 0.3333333333333333
+AP: 0.4611111111111111
+--------------------------------------
+Query ID: 225575
+Query: wet behind ear mean
+Average Precision: 0.7037918871252205
+Recall: 0.16129032258064516
+Reciprocal Rank: 1.0
+AP: 0.9392857142857143
+--------------------------------------
+Query ID: 2838988
+Query: get cork wine bottl without corkscrew
+Average Precision: 0.7705467372134038
+Recall: 0.3333333333333333
+Reciprocal Rank: 1.0
+AP: 0.8454861111111112
+--------------------------------------
+Query ID: 456214
+Query: import absolut zero temperatur
+Average Precision: 0.5858906525573192
+Recall: 0.16
+Reciprocal Rank: 1.0
+AP: 0.7678571428571428
+--------------------------------------
+Query ID: 761742
+Query: becom playa
+Average Precision: 0.8164021164021165
+Recall: 0.4
+Reciprocal Rank: 1.0
+AP: 1.0317460317460316
+--------------------------------------
+Query ID: 3825386
+Query: develop leanbodi muscl
+Average Precision: 0.012345679012345678
+Recall: 0.02702702702702703
+Reciprocal Rank: 0.1111111111111111
+AP: 0.125
+--------------------------------------
+Query ID: 2443586
+Query: bro
+Average Precision: 0.9171516754850086
+Recall: 0.22857142857142856
+Reciprocal Rank: 1.0
+AP: 1.1041666666666665
+--------------------------------------
+Query ID: 172731
+Query: saturn sun
+Average Precision: 0.8909171075837742
+Recall: 0.16666666666666666
+Reciprocal Rank: 1.0
+AP: 1.101190476190476
+--------------------------------------
+Query ID: 2783398
+Query: nucleu
+Average Precision: 0.9455467372134039
+Recall: 0.21052631578947367
+Reciprocal Rank: 1.0
+AP: 1.1465277777777778
+--------------------------------------
+Query ID: 402514
+Query: bake potato never tast near good get nice restaur
+Average Precision: 0.7480599647266314
+Recall: 0.13793103448275862
+Reciprocal Rank: 1.0
+AP: 1.125
+--------------------------------------
+Query ID: 4278201
+Query: ultraviolet light effect seed termin plant growth
+Average Precision: 0.20321869488536154
+Recall: 0.047619047619047616
+Reciprocal Rank: 0.5
+AP: 1.0
+--------------------------------------
+Query ID: 2539741
+Query: caus car white smoke come suffer make kick knock sound
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 3714728
+Query: world shallow
+Average Precision: 0.9193121693121693
+Recall: 0.21428571428571427
+Reciprocal Rank: 1.0
+AP: 1.2138888888888888
+--------------------------------------
+Query ID: 3778229
+Query: witch test salem witch trial
+Average Precision: 0.37336860670194
+Recall: 0.21739130434782608
+Reciprocal Rank: 0.3333333333333333
+AP: 0.6116666666666666
+--------------------------------------
+Query ID: 3640705
+Query: punish child molestor
+Average Precision: 0.5781746031746031
+Recall: 0.07894736842105263
+Reciprocal Rank: 1.0
+AP: 0.8666666666666667
+--------------------------------------
+Query ID: 1077370
+Query: human finger print
+Average Precision: 0.6702821869488536
+Recall: 0.15384615384615385
+Reciprocal Rank: 1.0
+AP: 0.9166666666666666
+--------------------------------------
+Query ID: 1373069
+Query: freedom speech - dont peopl understand use
+Average Precision: 0.17125220458553791
+Recall: 0.09375
+Reciprocal Rank: 0.25
+AP: 0.35555555555555557
+--------------------------------------
+Query ID: 1063812
+Query: grow taller
+Average Precision: 0.3297178130511464
+Recall: 0.13333333333333333
+Reciprocal Rank: 0.3333333333333333
+AP: 0.5771825396825397
+--------------------------------------
+Query ID: 2722241
+Query: anim hide dark place b4 die
+Average Precision: 0.3266754850088183
+Recall: 0.07692307692307693
+Reciprocal Rank: 1.0
+AP: 0.19444444444444442
+--------------------------------------
+Query ID: 746920
+Query: get rid part hand use home method
+Average Precision: 0.31432980599647264
+Recall: 0.02564102564102564
+Reciprocal Rank: 1.0
+AP: 0.0
+--------------------------------------
+Query ID: 1977054
+Query: consciou food origin
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 1199639
+Query: loseal bodi fat
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 2785579
+Query: could element weather would choos
+Average Precision: 0.11062610229276897
+Recall: 0.02564102564102564
+Reciprocal Rank: 0.25
+AP: 0.3333333333333333
+--------------------------------------
+Query ID: 1964316
+Query: mean weed
+Average Precision: 0.8261022927689594
+Recall: 0.24242424242424243
+Reciprocal Rank: 1.0
+AP: 0.9704861111111112
+--------------------------------------
+Query ID: 3206998
+Query: disneyland make snow
+Average Precision: 0.6667548500881835
+Recall: 0.17647058823529413
+Reciprocal Rank: 1.0
+AP: 0.810515873015873
+--------------------------------------
+Query ID: 2864267
+Query: exemplifi effect custom servic
+Average Precision: 0.7582010582010582
+Recall: 0.22580645161290322
+Reciprocal Rank: 1.0
+AP: 0.8253968253968254
+--------------------------------------
+Query ID: 3382736
+Query: minimalist cubisium
+Average Precision: 0.7696428571428571
+Recall: 0.6666666666666666
+Reciprocal Rank: 1.0
+AP: 0.8333333333333334
+--------------------------------------
+Query ID: 949154
+Query: anybodi tell butler
+Average Precision: 0.6405202821869489
+Recall: 0.17857142857142858
+Reciprocal Rank: 1.0
+AP: 0.8111111111111111
+--------------------------------------
+Query ID: 1364894
+Query: need tell custom serviceoper sick order make appoint w doctor
+Average Precision: 0.7037918871252205
+Recall: 0.14285714285714285
+Reciprocal Rank: 1.0
+AP: 0.9392857142857143
+--------------------------------------
+Query ID: 2797224
+Query: muslim happiest peopl ever
+Average Precision: 0.5175485008818342
+Recall: 0.05263157894736842
+Reciprocal Rank: 1.0
+AP: 1.0
+--------------------------------------
+Query ID: 765138
+Query: love someon hurt like hell
+Average Precision: 0.8020723104056438
+Recall: 0.1388888888888889
+Reciprocal Rank: 1.0
+AP: 1.1095238095238096
+--------------------------------------
+Query ID: 2479423
+Query: rail keypad drive
+Average Precision: 0.39669312169312165
+Recall: 0.14814814814814814
+Reciprocal Rank: 0.5
+AP: 0.7152777777777777
+--------------------------------------
+Query ID: 2862887
+Query: care spike dragon fee
+Average Precision: 0.2058201058201058
+Recall: 0.09090909090909091
+Reciprocal Rank: 0.25
+AP: 0.40277777777777773
+--------------------------------------
+Query ID: 4250296
+Query: doctor patient resuscit order
+Average Precision: 0.31119929453262785
+Recall: 0.14705882352941177
+Reciprocal Rank: 0.3333333333333333
+AP: 0.5392857142857143
+--------------------------------------
+Query ID: 3872395
+Query: easi way get toddler go sleep without mean
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 4473137
+Query: caus effect rise christian
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 1509982
+Query: th chemistri basic scienc
+Average Precision: 0.012345679012345678
+Recall: 0.043478260869565216
+Reciprocal Rank: 0.1111111111111111
+AP: 0.125
+--------------------------------------
+Query ID: 3269759
+Query: artifici intellig
+Average Precision: 0.2803350970017637
+Recall: 0.11764705882352941
+Reciprocal Rank: 0.25
+AP: 0.5011904761904762
+--------------------------------------
+Query ID: 3723508
+Query: differ ox bull
+Average Precision: 0.939373897707231
+Recall: 0.45
+Reciprocal Rank: 1.0
+AP: 1.1203703703703702
+--------------------------------------
+Query ID: 1282199
+Query: hide cut wrist
+Average Precision: 0.6455908289241622
+Recall: 0.15151515151515152
+Reciprocal Rank: 1.0
+AP: 0.6849999999999999
+--------------------------------------
+Query ID: 4196421
+Query: brilliant
+Average Precision: 0.939373897707231
+Recall: 0.3333333333333333
+Reciprocal Rank: 1.0
+AP: 1.1354166666666665
+--------------------------------------
+Query ID: 1850323
+Query: men never wash hand use urinaltoilet
+Average Precision: 0.17389770723104053
+Recall: 0.04878048780487805
+Reciprocal Rank: 0.3333333333333333
+AP: 0.39285714285714285
+--------------------------------------
+Query ID: 2192891
+Query: brace put hurt lot
+Average Precision: 0.35088183421516755
+Recall: 0.05263157894736842
+Reciprocal Rank: 0.5
+AP: 1.0
+--------------------------------------
+Query ID: 4406669
+Query: order tico bell
+Average Precision: 0.1558201058201058
+Recall: 0.04411764705882353
+Reciprocal Rank: 0.2
+AP: 0.3416666666666666
+--------------------------------------
+Query ID: 1582877
+Query: go school real world dont use
+Average Precision: 0.0
+Recall: 0.0
+Reciprocal Rank: 0.0
+AP: 0.0
+--------------------------------------
+Query ID: 1340574
+Query: peopl go church easter sunday never go christma
+Average Precision: 0.9193121693121693
+Recall: 0.175
+Reciprocal Rank: 1.0
+AP: 1.1515873015873017
+--------------------------------------
+Query ID: 1971899
+Query: masturbat
+Average Precision: 1.0
+Recall: 0.08333333333333333
+Reciprocal Rank: 1.0
+AP: 0.0
+--------------------------------------
+Mean AP: 0.5942867701247166
+Mean Reciprocal Rank (MRR): 0.6645674603174604

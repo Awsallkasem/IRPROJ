@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Interface</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            font-family: 'Roboto', sans-serif;
+        }
+        .container {
+            margin-top: 100px;
+        }
+        .search-bar {
+            position: relative;
+            display: flex;
+            align-items: center;
+        }
+        .search-bar input {
+            height: 50px;
+            border-radius: 25px;
+            margin-right: 10px;
+        }
+        .search-bar .query-input {
+            flex: 1;
+            padding: 10px 20px;
+            border: 1px solid #ced4da;
+        }
+        .search-bar .number-input {
+            width: 200px;
+            padding: 10px 15px;
+            border: 1px solid #ced4da;
+        }
+        .search-bar button {
+            height: 50px;
+            width: 50px;
+            border: none;
+            border-radius: 50%;
+            background-color: #007bff;
+            color: white;
+            transition: background-color 0.3s;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .search-bar button:hover {
+            background-color: #0056b3;
+        }
+        .results {
+            margin-top: 30px;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .result {
+            padding: 15px;
+            border-bottom: 1px solid #e9ecef;
+        }
+        .result:last-child {
+            border-bottom: none;
+        }
+        .result .title {
+            font-size: 18px;
+            font-weight: bold;
+            color: #007bff;
+        }
+        .result .score {
+            color: #6c757d;
+            font-size: 14px;
+        }
+        .result .content {
+            margin-top: 10px;
+            color: #343a40;
+        }
+        .pagination {
+            margin-top: 20px;
+            display: flex;
+            justify-content: center;
+        }
+        .pagination button {
+            margin: 0 5px;
+            padding: 10px 15px;
+            border: 1px solid #007bff;
+            color: #007bff;
+            background: white;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        .pagination button.active {
+            background: #007bff;
+            color: white;
+        }
+        .suggestions {
+            margin-top: 30px;
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .suggestion {
+            padding: 10px;
+            border-bottom: 1px solid #e9ecef;
+        }
+        .suggestion:last-child {
+            border-bottom: none;
+        }
+        .loading-spinner {
+            display: none;
+            justify-content: center;
+            align-items: center;
+            height: 100px;
+        }
+        .loading-spinner .spinner-border {
+            width: 3rem;
+            height: 3rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="search-bar">
+            <input type="text" id="query-input" class="form-control query-input" placeholder="Enter your search query...">
+            <input type="text" id="number-input" class="form-control number-input" placeholder="Dataset number...">
+            <button class="btn btn-primary" onclick="performSearch()"><i class="fas fa-search"></i></button>
+            <button class="btn btn-secondary" onclick="getSuggestions()"><i class="fas fa-lightbulb"></i></button>
+        </div>
+        <div class="loading-spinner" id="loading-spinner">
+            <div class="spinner-border text-primary" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
+        </div>
+        <div class="results" id="results">
+            <!-- Search results will appear here -->
+        </div>
+        <div class="pagination" id="pagination">
+            <!-- Pagination buttons will appear here -->
+        </div>
+        <div class="suggestions" id="suggestions">
+            <!-- Suggestions will appear here -->
+        </div>
+    </div>
+    <script>
+        let currentPage = 1;
+        const perPage = 10;
+        let totalResults = 0;
+
+        async function performSearch(page = 1) {
+            const query = document.getElementById('query-input').value;
+            const number = document.getElementById('number-input').value;
+            toggleLoadingSpinner(true);
+            const response = await fetch('/query', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ query, number, page, per_page: perPage })
+            });
+            const data = await response.json();
+            toggleLoadingSpinner(false);
+            totalResults = data.total_results;
+            currentPage = page;
+            displayResults(data.results);
+            setupPagination();
+        }
+
+        function displayResults(results) {
+            const resultsDiv = document.getElementById('results');
+            resultsDiv.innerHTML = '';
+            results.forEach(result => {
+                const resultDiv = document.createElement('div');
+                resultDiv.classList.add('result');
+                resultDiv.innerHTML = `
+                    <div class="title">${result.doc_id}</div>
+                    <div class="score">Score: ${result.score}</div>
+                    <div class="content">${result.content}</div>
+                `;
+                resultsDiv.appendChild(resultDiv);
+            });
+        }
+
+        function setupPagination() {
+            const paginationDiv = document.getElementById('pagination');
+            paginationDiv.innerHTML = '';
+            const totalPages = Math.ceil(totalResults / perPage);
+
+            for (let i = 1; i <= totalPages; i++) {
+                const button = document.createElement('button');
+                button.innerText = i;
+                if (i === currentPage) {
+                    button.classList.add('active');
+                }
+                button.addEventListener('click', () => performSearch(i));
+                paginationDiv.appendChild(button);
+            }
+        }
+
+        async function getSuggestions() {
+            const query = document.getElementById('query-input').value;
+            toggleLoadingSpinner(true);
+            const response = await fetch('/suggestion', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ query })
+            });
+            const data = await response.json();
+            toggleLoadingSpinner(false);
+            displaySuggestions(data);
+        }
+
+        function displaySuggestions(suggestions) {
+            const suggestionsDiv = document.getElementById('suggestions');
+            suggestionsDiv.innerHTML = '<h4>Suggestions</h4>';
+            suggestions.forEach(suggestion => {
+                const suggestionDiv = document.createElement('div');
+                suggestionDiv.classList.add('suggestion');
+                suggestionDiv.innerHTML = `<p>${suggestion}</p>`;
+                suggestionsDiv.appendChild(suggestionDiv);
+            });
+        }
+
+        function toggleLoadingSpinner(show) {
+            const spinner = document.getElementById('loading-spinner');
+            spinner.style.display = show ? 'flex' : 'none';
+        }
+    </script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,2140 @@
+Query ID: 3990512
+Query: get concentr someth
+Query Count: 36
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 0.75, 0.6, 0.5, 0.42857142857142855, 0.375, 0.3333333333333333
+Similarity Score: 0.8090957558670013, Document ID: 248974_2, Document: concentr would someth like
+Similarity Score: 0.8006011663128638, Document ID: 3265991_12, Document: concentr
+Similarity Score: 0.8006011663128638, Document ID: 2036065_1, Document: concentr
+
+Query ID: 714612
+Query: doesnt water fall earth round
+Query Count: 30
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 0.0, 0.5, 0.3333333333333333, 0.25, 0.4, 0.5, 0.42857142857142855, 0.375, 0.3333333333333333
+Similarity Score: 0.5607806539354453, Document ID: 714612_0, Document: goe along question dont fall earth round answer graviti hold unit state water
+Similarity Score: 0.5307658064210337, Document ID: 714612_7, Document: graviti strong enough around earth water fall earth
+Similarity Score: 0.530398135193962, Document ID: 3069999_1, Document: man moon youd ask wasnt earth goe round round round
+Similarity Score: 0.49077946933521055, Document ID: 790907_2, Document: cover fall cover squar could angl fall round fall
+
+Query ID: 2528767
+Query: determin charg iron ion feel3
+Query Count: 23
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.25, 0.4, 0.3333333333333333, 0.2857142857142857, 0.25, 0.3333333333333333
+Similarity Score: 0.523809332729755, Document ID: 309724_0, Document: ion al 5 dot around signifi 3 charg ion
+Similarity Score: 0.5195343487303097, Document ID: 2167806_1, Document: u mean u destinguish roman numer use well u find charg side equat exampl feo rust call iron ii oxid oxygen neg 2 charg iron posit 2 charg balanc also rememb 2 charg individu iron atom 2 iron atomsfe2o would call iron oxid charg iron atom posit 1
+Similarity Score: 0.4923074691127227, Document ID: 1654158_1, Document: two particl ion whatev opposit charg one posit charg one neg charg
+
+Query ID: 821387
+Query: micehow get rid human
+Query Count: 41
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 1880028
+Query: see leaflet mean pt pregnanc test
+Query Count: 31
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.5, 0.4, 0.3333333333333333, 0.2857142857142857, 0.25, 0.3333333333333333
+Similarity Score: 0.5232315957641688, Document ID: 1880028_3, Document: mean leaflet enclos box cant find leaflet check link
+Similarity Score: 0.513216504503373, Document ID: 4145479_2, Document: get pregnanc test
+Similarity Score: 0.49586110686684065, Document ID: 1880028_0, Document: leaflet info insid packag test
+Similarity Score: 0.47497608933033175, Document ID: 2776567_3, Document: take pregnanc test go see doctor
+
+Query ID: 4448097
+Query: innat immun
+Query Count: 36
+Relevant Documents: 6
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.6666666666666666, 0.5, 0.6, 0.6666666666666666, 0.7142857142857143, 0.625, 0.5555555555555556
+Similarity Score: 0.6330542368125978, Document ID: 4448097_1, Document: innat immun n immun occur natur result person genet constitut physiolog aris previou infect vaccin also call genet immun inher immun nativ immun natur immun nonspecif immun
+Similarity Score: 0.5782391525395179, Document ID: 2240812_3, Document: u cant becom funni innat
+Similarity Score: 0.48986907685603376, Document ID: 849485_9, Document: innat instinct amus human
+Similarity Score: 0.47514009666332996, Document ID: 3550980_2, Document: cant thing immun train immun hiv
+Similarity Score: 0.42981713520693277, Document ID: 338389_15, Document: god man great invent human invent god remind innat good -- -sircvraman davinci code christ secret famili good innat qualiti make christian religion attribut innat good jesu christ accord fact avail great thinker reform healer show toler sacrif life find criticis fun get rage
+Similarity Score: 0.390987321548969, Document ID: 4448097_0, Document: innat immun inherhit gene provid immedi defens pathogen im sure question regard affect sex age link provid info
+
+Query ID: 1287437
+Query: lose 30 pound june3
+Query Count: 33
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.5, 0.4, 0.3333333333333333, 0.2857142857142857, 0.25, 0.2222222222222222
+Similarity Score: 0.660705799677918, Document ID: 3339223_8, Document: 30 pound sit week
+Similarity Score: 0.5941356929714889, Document ID: 150749_3, Document: cant lose 10 pound 5 day
+
+Query ID: 2956570
+Query: word write sound raindrop move train scrambl w pencil paper figur
+Query Count: 29
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 0.75, 0.6, 0.5, 0.42857142857142855, 0.375, 0.3333333333333333
+Similarity Score: 0.47587020993067325, Document ID: 550933_7, Document: pencil paper
+Similarity Score: 0.47587020993067325, Document ID: 186445_0, Document: pencil paper
+Similarity Score: 0.41925002155895674, Document ID: 3766945_0, Document: realli need pencil paper
+Similarity Score: 0.40919935466116714, Document ID: 2956570_0, Document: pitter patter raindrop chug train scratch od pencil paper
+
+Query ID: 1351675
+Query: must unrank windshield order car pass safeti inspect
+Query Count: 31
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.125, 0.1111111111111111
+Similarity Score: 0.32809772434378764, Document ID: 449814_30, Document: safeti reason
+
+Query ID: 1783010
+Query: blasphemi
+Query Count: 18
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.25, 0.2, 0.3333333333333333, 0.2857142857142857, 0.25, 0.3333333333333333
+Similarity Score: 0.6587111799882557, Document ID: 1783010_8, Document: difficult say one person holi doctrin anoth blasphemi instanc blasphemi god send die roman cross save child
+Similarity Score: 0.5740427028159907, Document ID: 1783010_16, Document: blasphemi attribut god qualiti someon someth el
+Similarity Score: 0.5025004553454656, Document ID: 1783010_2, Document: blasphemi anyth cur god goe tenet religion
+
+Query ID: 2799913
+Query: what proper way express sorrow funer
+Query Count: 37
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.5, 0.4, 0.3333333333333333, 0.2857142857142857, 0.25, 0.2222222222222222
+Similarity Score: 0.500961017466487, Document ID: 267071_17, Document: make go water proper funer lol
+Similarity Score: 0.37469910835862114, Document ID: 1715937_5, Document: dont think proper way
+
+Query ID: 2142044
+Query: specul happen natali holloway area
+Query Count: 23
+Relevant Documents: 5
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.75, 0.8, 0.8333333333333334, 0.7142857142857143, 0.625, 0.5555555555555556
+Similarity Score: 0.5829919297460546, Document ID: 776235_11, Document: entertain realli isnt news natali holloway wouldnt know watch fox
+Similarity Score: 0.33023728616639914, Document ID: 4312176_7, Document: news worthi gener interest stori unusu detail get nation attent natali holloway stori mysteri happen pretti young ladi tropic island resort mysteri hope beauti young woman vanish white cours villan suspect famili realli care vocal money
+Similarity Score: 0.3197443650748966, Document ID: 811091_0, Document: one drown mightv differ natali though
+Similarity Score: 0.3182850978968575, Document ID: 668613_5, Document: ill turn program twice week catch fox news sometim see weve caught natali holloway murder duke lacross boy rape yet seem new stori fox news report dont agre part dont want lean far one way
+Similarity Score: 0.2739547943494917, Document ID: 2294159_1, Document: medium capabl report thing well also fall pre-tens holloway case still draw audienc moron
+
+Query ID: 707303
+Query: peopl get pickup exactli best way cure
+Query Count: 25
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 676028
+Query: elect feder senat congressmen live regular like rest unit state
+Query Count: 31
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 0.0, 0.5, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.14285714285714285, 0.125, 0.2222222222222222
+Similarity Score: 0.44504096338673416, Document ID: 676028_2, Document: keep like away poepl like call feder senat
+Similarity Score: 0.4068210701720911, Document ID: 3685222_3, Document: rest world need unit state live wont anyth unit state govern doesnt like
+
+Query ID: 2484180
+Query: peopl judg dog look like
+Query Count: 36
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.75, 0.6, 0.5, 0.42857142857142855, 0.375, 0.3333333333333333
+Similarity Score: 0.8665845681056399, Document ID: 2484180_8, Document: like judg peopl look
+Similarity Score: 0.7404587928613491, Document ID: 2145892_14, Document: peopl dont judg peopl look
+Similarity Score: 0.6520121853339773, Document ID: 1047976_2, Document: peopl like judg other
+
+Query ID: 2307305
+Query: man rape littl girl
+Query Count: 31
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.2857142857142857, 0.25, 0.2222222222222222
+Similarity Score: 0.6535999022688969, Document ID: 2307305_9, Document: also lot men rape littl boy men rape men woman teacher sex student men rape littl girl know realli man would rape woman girl pervers mayb want fill power know make sick
+Similarity Score: 0.5104458478122151, Document ID: 1250287_7, Document: pretti much imposs woman rape man that man turn sex woman ever ever hear man cri rape there babi involv
+
+Query ID: 2814599
+Query: word remiss mean refer cancer patient
+Query Count: 23
+Relevant Documents: 5
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 1.0, 0.8333333333333334, 0.7142857142857143, 0.625, 0.5555555555555556
+Similarity Score: 0.5786154778960829, Document ID: 2814599_0, Document: remiss disappear sign symptom cancer diseas happen diseas say remiss remiss temporari perman
+Similarity Score: 0.5180275172393471, Document ID: 2814599_1, Document: doesnt mean five year cancer free though consid cure cancr free five year remiss mean symptom go cancer grow soon happen remiss babi
+Similarity Score: 0.5048921390395493, Document ID: 2814599_3, Document: well say doctor say mom 6th year remiss mean cancer cell bodi also mean that long cancer go help good hope
+Similarity Score: 0.4650950019350152, Document ID: 2814599_4, Document: treatment 2 year ago go remiss cancer back alot wors first two time cancer still dont hurt less activ
+Similarity Score: 0.4442260257377053, Document ID: 4313732_3, Document: reach remiss curabl daivobet good usual give long remiss
+
+Query ID: 3369088
+Query: stop spread islam
+Query Count: 44
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.16666666666666666, 0.2857142857142857, 0.25, 0.3333333333333333
+Similarity Score: 0.59751471989396, Document ID: 291657_12, Document: islam isnt tri conquer world god tell muslim spread messag islam say one god son daughter mother father etc control everyth within heaven earth islam teach sole purpos life worship see islam spread rapid pace yet islam doesnt carryout missionari activ like christian islam spread rapidli especi usa teach -- compass equal justic etc islam doesnt need conquer anyth messag speak
+Similarity Score: 0.5723726374665619, Document ID: 3369088_2, Document: would want stop spread islam free countri muslim right spread religion much want safe peac religion right preach belief much religion realli extremist muslim corrupt mind mani american like make american public believ islam violent religion suicid bomber terrorist islam religion islam strictli condon violenc act terror hell punish peopl islam promot peac uniti respect everyon even muslim question read stop spread extremist islam that someth would want put end
+Similarity Score: 0.5151921333917386, Document ID: 3369088_6, Document: there bad element islam stoppedfanat sometim wonder spread religion catholic strong middl age everi aspect faith corrupt could well islam gain momentum past year neg activ islam fanat need fear spread true islam fear fanat
+
+Query ID: 1702151
+Query: patient driver
+Query Count: 34
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.16666666666666666, 0.14285714285714285, 0.125, 0.1111111111111111
+Similarity Score: 0.566890250530515, Document ID: 39478_1, Document: realli good driver
+Similarity Score: 0.5340425576939825, Document ID: 1395127_0, Document: go driver school
+
+Query ID: 851124
+Query: ego part surviv instinct
+Query Count: 30
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.5, 0.4, 0.3333333333333333, 0.2857142857142857, 0.25, 0.2222222222222222
+Similarity Score: 0.734450224488415, Document ID: 780772_4, Document: surviv instinct
+Similarity Score: 0.5906117083640139, Document ID: 851124_2, Document: get ego need best surviv beat best ego goe hand hand surviv evolv lower speci adapt rule brag ego come along ego actual fals feel superior win think next best thing come town take away ego turn envi despair least despair world today surviv surviv get ego babi good luck life
+
+Query ID: 3698636
+Query: cat headbutt
+Query Count: 40
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.14285714285714285, 0.125, 0.1111111111111111
+Similarity Score: 0.6131753828466369, Document ID: 3698636_9, Document: want attent food show food cat headbutt hand morn cute
+
+Query ID: 1844896
+Query: cook angu burger
+Query Count: 30
+Relevant Documents: 5
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 0.8, 0.6666666666666666, 0.5714285714285714, 0.5, 0.5555555555555556
+Similarity Score: 0.4983586137606465, Document ID: 1844896_4, Document: usual cook burger quit bleed side mayb littl longer cook time vari depend thick burger
+Similarity Score: 0.4951443362506345, Document ID: 1844896_2, Document: angu hamburg there noth special
+Similarity Score: 0.43036655696164283, Document ID: 1958890_5, Document: burger essenc never type anim name never heard burger farm slaughter burger mani type includ turkey beef veggi burger term burger copyright beef industri
+Similarity Score: 0.42128323155403746, Document ID: 1844896_1, Document: angu type ground beef cook way hamburg would say mayb dont want cook way cook juic run clear would say mayb 4 min side make sure flame low dont want char outsid insid do watch flareup cook fat run flare give flavor burger lastli could purchas food thermometer140 degre medium 165 well do good luck email question oh yeah one thingyou dont make test burger could alway crack open littl see insid serv crack side bun
+Similarity Score: 0.4046758745037245, Document ID: 2548275_17, Document: never dog bf famili staffi call angu kojo sure get kojo scottish call male dog angu
+
+Query ID: 2290758
+Query: peopl ask question know
+Query Count: 37
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 143833
+Query: differ coolant anti-freez
+Query Count: 26
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.5, 0.6, 0.6666666666666666, 0.5714285714285714, 0.5, 0.4444444444444444
+Similarity Score: 0.6988375903917419, Document ID: 4105530_10, Document: anti-freez
+Similarity Score: 0.5950480636146429, Document ID: 2580192_2, Document: may fluid especi antifreez coolant may low honda smell like plastic low anti freez coolant
+Similarity Score: 0.5181286504978377, Document ID: 4032001_7, Document: engin shut coolant temperatur actual rise bit cool check coolant level cool sure fill proper cold level fill expans tank full engin coolant heat expand push coolant flow past pressur cap coolant level troubl pressur cap test faulti replac sure use recommend pressur rate cap water boil 215 degre f 5050 mix anti-freez water 15 lb pressur cap coolant boil point rais 230 degre f see issu incorrect level coolant incorrect coolant mix bad pressur cap least cost check proper coolant level cost occur
+Similarity Score: 0.5138691677655403, Document ID: 1453706_13, Document: water use proper coolant unavail water heat transfer rate radiat coolant ie preston coolant also problem winter water freez coolant radiat water expect problem extrem heat cold
+
+Query ID: 3910925
+Query: warn contagi
+Query Count: 40
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.5, 0.6, 0.5, 0.5714285714285714, 0.5, 0.4444444444444444
+Similarity Score: 0.7567916032801856, Document ID: 601072_1, Document: contagi
+Similarity Score: 0.7567916032801856, Document ID: 601072_4, Document: contagi
+Similarity Score: 0.671224668985272, Document ID: 3513905_2, Document: caus contagi
+Similarity Score: 0.6331379229883861, Document ID: 4428185_5, Document: counterquest question yawn contagi contagi third time encount though first time contagi spell wrong yawn contagi relax contagi
+
+Query ID: 2643507
+Query: milk cost ga per gallon
+Query Count: 34
+Relevant Documents: 7
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 0.8, 0.8333333333333334, 0.8571428571428571, 0.75, 0.6666666666666666
+Similarity Score: 0.7656995260113107, Document ID: 2643507_2, Document: last time go ga cost milk per gal put gallon milk car
+Similarity Score: 0.6384098915911913, Document ID: 2643507_0, Document: doesnt live milk cheap gallon ga
+Similarity Score: 0.6158875023594808, Document ID: 4221450_0, Document: real ga cost almost 4 per gallon ideal ga would closer 150
+Similarity Score: 0.510692791791638, Document ID: 2643507_15, Document: everywher pay 229 gallon milk yesterday ga 275 gallon
+Similarity Score: 0.4963340538185651, Document ID: 364589_11, Document: use lot ga milk everyon drink milk peopl use ga
+Similarity Score: 0.49506523372890887, Document ID: 364589_8, Document: dont buy 11 gallon milk time
+Similarity Score: 0.4847376316706042, Document ID: 2643507_9, Document: ohio man ga milk milk ga darn ga week
+
+Query ID: 1502604
+Query: brook make fake passport
+Query Count: 34
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.1111111111111111
+Similarity Score: 0.47161922371629816, Document ID: 1808256_2, Document: fake
+
+Query ID: 4283542
+Query: loos tool weekhow make stop
+Query Count: 29
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 3554263
+Query: peopl behav rude without reason due problem
+Query Count: 34
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.14285714285714285, 0.125, 0.1111111111111111
+Similarity Score: 0.5191649416250677, Document ID: 1956064_7, Document: rude peopl rude
+
+Query ID: 3313308
+Query: enjoy time alon
+Query Count: 40
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.14285714285714285, 0.125, 0.1111111111111111
+Similarity Score: 0.6318336808816064, Document ID: 4369443_5, Document: enjoy
+
+Query ID: 4357460
+Query: make car faster
+Query Count: 44
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.3333333333333333, 0.5, 0.6, 0.5, 0.42857142857142855, 0.5, 0.4444444444444444
+Similarity Score: 0.7334611580410557, Document ID: 213510_9, Document: make car goe faster sound well
+Similarity Score: 0.6966965131319497, Document ID: 4113671_5, Document: help make car rust faster
+Similarity Score: 0.6172111949258494, Document ID: 3003488_5, Document: slow car stay right faster car pas leave
+Similarity Score: 0.5716321447184943, Document ID: 3259629_1, Document: stripe make go faster twin stripe must make go faster faster
+
+Query ID: 2582920
+Query: differ dri plum dri prune
+Query Count: 27
+Relevant Documents: 10
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0
+Similarity Score: 0.926710944681471, Document ID: 2582920_11, Document: prune dri plum
+Similarity Score: 0.926710944681471, Document ID: 2582920_10, Document: prune dri plum
+Similarity Score: 0.8784406840634864, Document ID: 2582920_23, Document: dri plum prune dont quit know dri prune
+Similarity Score: 0.8776359631422614, Document ID: 2582920_18, Document: dri plum prune dri prune dust
+Similarity Score: 0.8555885608555822, Document ID: 2582920_6, Document: dri plum prune dri prune raisin
+Similarity Score: 0.8507285090675678, Document ID: 2582920_1, Document: dri plum prune dri prune redund
+Similarity Score: 0.8440624664096033, Document ID: 2582920_8, Document: dri plum prune dri prune dead uncl
+Similarity Score: 0.8386515997559089, Document ID: 2582920_25, Document: recent dri plum dri prune call thing prune prune actual cultivar plum gener cultivar plant specif cultiv certain properti actual reciev differ name prune plum differ certain desir area two term use interchang prune could ment either dri plum dri prune even though technic differ friut reason confus dri plum maker dont like neg feel toward name prune start market thier product dri plum order move away
+Similarity Score: 0.8225941224590849, Document ID: 2582920_21, Document: dri prune that like say wet water prune alreadi dri prune dri plum that
+Similarity Score: 0.713833362487568, Document ID: 2582920_3, Document: dri plum prune like dri grape raisin dri apricot dri apricoti think lol
+
+Query ID: 4462511
+Query: know gold fish pregnant
+Query Count: 25
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.14285714285714285, 0.125, 0.1111111111111111
+Similarity Score: 0.7685445011163186, Document ID: 1852661_5, Document: gold fish
+
+Query ID: 2795030
+Query: peopl drink curv tast go come
+Query Count: 39
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 312215
+Query: good appl pie cold
+Query Count: 29
+Relevant Documents: 9
+Total Returned Documents: 10
+Precision List: 0.0, 0.5, 0.6666666666666666, 0.75, 0.8, 0.8333333333333334, 0.8571428571428571, 0.875, 0.8888888888888888
+Similarity Score: 0.844645719461234, Document ID: 2198611_11, Document: appl pie
+Similarity Score: 0.7943427995257348, Document ID: 1015800_24, Document: tri appl pie
+Similarity Score: 0.7184438836504605, Document ID: 1060042_28, Document: tradit appl pie
+Similarity Score: 0.716172879751257, Document ID: 1602635_3, Document: appl pie bec like appl havent tri pie
+Similarity Score: 0.6767622843905445, Document ID: 312215_8, Document: prefer cold appl pie warm plu cold ice cream cold pie soooo yummmi
+Similarity Score: 0.6681342347024433, Document ID: 312215_10, Document: im crazi appl pie
+Similarity Score: 0.6364844898083407, Document ID: 2269965_0, Document: go near market purchas appl pie come home place pie pie dish place 200 oven 15 minut ta da homemad appl pie
+Similarity Score: 0.631559613259699, Document ID: 312215_7, Document: kind appl pie good haha person like appl pie vanilla ice creamtri sometim
+Similarity Score: 0.6296228174493035, Document ID: 2901201_3, Document: appl grow appl pie origin coloni america state becam independ england phrase american appl pie origin
+
+Query ID: 3363149
+Query: arab mexican look alik
+Query Count: 28
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 0.0, 0.5, 0.3333333333333333, 0.25, 0.4, 0.3333333333333333, 0.2857142857142857, 0.25, 0.2222222222222222
+Similarity Score: 0.5576857610842244, Document ID: 3363149_0, Document: racist comment like say chine korean peopl look alik simpli dont neither arab mexican jerk
+Similarity Score: 0.47618905777723686, Document ID: 1833501_2, Document: sorri im fat ill never look like know coupl look alik dress alik - match cloth lol
+
+Query ID: 1944018
+Query: cant teenag vote
+Query Count: 49
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 0.8, 0.6666666666666666, 0.5714285714285714, 0.5, 0.4444444444444444
+Similarity Score: 0.7674509870102514, Document ID: 1773381_1, Document: 1 teenag cant vote today 2 state cant vote today
+Similarity Score: 0.7090785302684987, Document ID: 2841427_5, Document: teenag
+Similarity Score: 0.7090785302684987, Document ID: 1607303_13, Document: teenag
+Similarity Score: 0.7053852337452814, Document ID: 3920126_11, Document: teenag teenag teenag dont teenag
+
+Query ID: 788976
+Query: bush admin cover 911
+Query Count: 45
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.14285714285714285, 0.125, 0.1111111111111111
+Similarity Score: 0.5521297616925964, Document ID: 2577358_6, Document: bush plan 911
+
+Query ID: 4385316
+Query: keep black bird bar-b-qu grill
+Query Count: 35
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.3333333333333333, 0.5, 0.4, 0.5, 0.42857142857142855, 0.375, 0.3333333333333333
+Similarity Score: 0.44648883184911853, Document ID: 1316226_9, Document: grill
+Similarity Score: 0.44648883184911853, Document ID: 4292466_0, Document: grill
+Similarity Score: 0.39160950467639216, Document ID: 4181216_5, Document: minc steak fine chop onion 1 beaten egg breadcrumb salt pepper mix ingredi togeth either grill bar-b-qu good luck
+
+Query ID: 551239
+Query: find someon leave life insur polici
+Query Count: 29
+Relevant Documents: 6
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 0.8, 0.8333333333333334, 0.7142857142857143, 0.625, 0.6666666666666666
+Similarity Score: 0.6015783430032053, Document ID: 3593337_1, Document: get parent insur polici
+Similarity Score: 0.5465274642886984, Document ID: 2640389_1, Document: probabl best benefit life insur burial expens life insur expir die famili enough money buri pay bill etc depend much polici get get life insur polici sever differ compani time employ offer health insur polici best polici vari individu need consult insur agent well assist particular need check visit websit wwwaigtermlifecom wwwinsureappcom www1stquotecomcompany-listhtm wwwaccuquotecom
+Similarity Score: 0.5240612909946484, Document ID: 3540587_0, Document: first ask aunt idea compani even person speak life insur polici also ask know knew insur agent person level cant find start call custom servic depart insur compani state that live tell beneficiari polici polici owner father deceas good luck
+Similarity Score: 0.5065501472677115, Document ID: 2803492_1, Document: gener insur classifi categori 1 gener insur polici provid payment event loss particular event usual asset includ car hous etc 2a life insur polici offer incom oneself famili member event death total perman disabl case upon contract critic ill exampl cancer kidney failur etc 2b life insur w invest polici depend owner object need type polici includ invest element insur compani seek assist insur fulfil goal object mean invest 3 health polici provid payment medic expens word insur seek offer monetari compens event lose occur one method transfer unwant risk third parti contract insur compani
+Similarity Score: 0.4879132422383506, Document ID: 3089884_1, Document: good articl find lose life insur polici httpwwwfindlocalinsurancecomlostlifehtml
+Similarity Score: 0.46790347054900794, Document ID: 1399727_1, Document: may even valid insur right need immedi contact compani make sure person give money actual pay insur polici need verifi insur polici inde valid need contact consum divis state insur commission offic insur depart alert person sell polici without valid licens seriou offens undermin entir industri
+
+Query ID: 3499881
+Query: gordon ramsey popular
+Query Count: 42
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.75, 0.6, 0.5, 0.42857142857142855, 0.5, 0.4444444444444444
+Similarity Score: 0.7707614152805411, Document ID: 3089958_18, Document: look gordon ramsey swear word
+Similarity Score: 0.489646168971604, Document ID: 3499881_11, Document: forc work wouldnt success team know respect earn lot money peopl unit kingdom turn wimp gordon ramsey would call real man
+Similarity Score: 0.34960563638729447, Document ID: 3076949_10, Document: one popular
+Similarity Score: 0.32324312318333076, Document ID: 256524_2, Document: caus popular
+
+Query ID: 4311093
+Query: hot air rise
+Query Count: 30
+Relevant Documents: 9
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0
+Similarity Score: 0.8615909074491994, Document ID: 3542779_4, Document: cloud make hot air hot air rise
+Similarity Score: 0.7760327035781052, Document ID: 989850_11, Document: hot air rise cold air sink
+Similarity Score: 0.7300579756281047, Document ID: 3031257_2, Document: hot air drive upward sinc hot air occupi space cold air much less dens hot air rise
+Similarity Score: 0.7025489511036254, Document ID: 989850_2, Document: hot air rise turn cold goe push air get way
+Similarity Score: 0.6438200264321063, Document ID: 4311093_7, Document: doesnt old physic teacher use say usual throw someth unit state hot air rise cooler air say less dens gas rise dens gas sinc warm air less den cold air rise find air densiti point stop rise
+Similarity Score: 0.638225711507983, Document ID: 989850_12, Document: hot air rise colder air move rapidli make wind order fill void hotter air leave behind rise
+Similarity Score: 0.6167466711272911, Document ID: 112512_0, Document: hot air hold water hot air also seek rise push cold air mingl cold air lose heat air reach cool enough temperatur amount water - rain
+Similarity Score: 0.616134820425474, Document ID: 3085580_1, Document: hot air rise cool air fall sooooo guess keep balanc
+Similarity Score: 0.6115231128710694, Document ID: 2217368_2, Document: hot air rise cold air descend global scale get wind
+
+Query ID: 4256593
+Query: remov sim card lt x8300 cell phone
+Query Count: 23
+Relevant Documents: 5
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.75, 0.8, 0.6666666666666666, 0.5714285714285714, 0.625, 0.5555555555555556
+Similarity Score: 0.5462727581688452, Document ID: 3384601_0, Document: make cingular sim card work t-mobil phone access phone card go local cell phone provid see
+Similarity Score: 0.5419381228720102, Document ID: 325934_1, Document: take cell phone store obvious someth wrong sim card phone reject good luck
+Similarity Score: 0.4929986969125325, Document ID: 4256593_0, Document: lg vx8300 cell phone cdma phone offer verizon cdma phone use sim card gsm phone use sim card
+Similarity Score: 0.49274021983306554, Document ID: 1075565_1, Document: cingular tmobil take sim card put anoth phone use sim card verizon go websit activ phone type esn back phone
+Similarity Score: 0.47487522618206807, Document ID: 3859964_0, Document: gsm carrier call lock make phone use one sim card take phone anoth carrier unlock mean remov use anoth carrier sim card phone
+
+Query ID: 1017690
+Query: histori indian music
+Query Count: 27
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 0.75, 0.6, 0.5, 0.42857142857142855, 0.375, 0.3333333333333333
+Similarity Score: 0.6447055572498963, Document ID: 1017690_0, Document: histori indian music acient indian histeri
+Similarity Score: 0.6242176642643877, Document ID: 823581_17, Document: indian
+Similarity Score: 0.6242176642643877, Document ID: 625773_7, Document: indian
+
+Query ID: 667488
+Query: soon drive newli pave driveway
+Query Count: 24
+Relevant Documents: 8
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.5, 0.6, 0.6666666666666666, 0.7142857142857143, 0.75, 0.7777777777777778
+Similarity Score: 0.4648395085018591, Document ID: 1866441_4, Document: drive driveway eventu hit hous run driveway point longer drive driveway thenwhat question againsorri
+Similarity Score: 0.3971079044160466, Document ID: 507298_9, Document: park driveway drive parkway
+Similarity Score: 0.3971079044160466, Document ID: 901548_3, Document: drive parkway park driveway
+Similarity Score: 0.3971079044160466, Document ID: 2477620_2, Document: park driveway drive parkway
+Similarity Score: 0.3971079044160466, Document ID: 3328664_17, Document: park driveway drive parkway
+Similarity Score: 0.3971079044160466, Document ID: 1138153_1, Document: park driveway drive parkway
+Similarity Score: 0.3971079044160466, Document ID: 3066696_7, Document: drive parkway park driveway
+Similarity Score: 0.3971079044160466, Document ID: 1476913_9, Document: drive parkway park driveway
+
+Query ID: 3507491
+Query: religi freedom import today
+Query Count: 34
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.5, 0.4, 0.3333333333333333, 0.2857142857142857, 0.375, 0.4444444444444444
+Similarity Score: 0.6957880109014664, Document ID: 1216649_1, Document: want religi freedom
+Similarity Score: 0.5919836607765194, Document ID: 3258291_15, Document: america find religi freedom
+Similarity Score: 0.5437358249656394, Document ID: 3507491_2, Document: alway import import today ever
+Similarity Score: 0.5299912548344443, Document ID: 3258291_26, Document: america start religi freedom forefath religi peopl
+
+Query ID: 2634143
+Query: direct borrow phonolog borrow linguist borrow cultur borrowingintim borrow
+Query Count: 30
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 0.0, 0.5, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.14285714285714285, 0.125, 0.1111111111111111
+Similarity Score: 0.766375912876791, Document ID: 68860_1, Document: borrow money person comput borrow
+Similarity Score: 0.5331047603516432, Document ID: 68860_2, Document: sound good nice enough let borrow comput mayb let borrow money well go start collect can work
+
+Query ID: 3396066
+Query: airplan fli high
+Query Count: 35
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.5, 0.4, 0.3333333333333333, 0.42857142857142855, 0.375, 0.4444444444444444
+Similarity Score: 0.800404910664619, Document ID: 1492370_3, Document: airplan fli lol
+Similarity Score: 0.7103082439155747, Document ID: 2590387_20, Document: airplan
+Similarity Score: 0.6740249635211675, Document ID: 1390413_6, Document: sex airplan fli part mile high club
+Similarity Score: 0.6432510553810886, Document ID: 2590387_10, Document: say cant put pig airplan fli
+
+Query ID: 2892478
+Query: factor caus earth heat uneven
+Query Count: 26
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 0.75, 0.6, 0.5, 0.42857142857142855, 0.375, 0.3333333333333333
+Similarity Score: 0.5249013023752513, Document ID: 1664423_2, Document: heat earth
+Similarity Score: 0.5006593094617369, Document ID: 3877042_18, Document: mayb thing men ball uneven ball uneven boob
+Similarity Score: 0.3991563652748516, Document ID: 4139889_0, Document: wind roughli horizont movement air oppos air current caus uneven heat earth surfac occur scale local breez gener heat land surfac last ten minut global wind result solar heat earth two major influenc atmospher circul differenti heat equat pole rotat planet corioli effect
+
+Query ID: 3155314
+Query: pork chop real chop lamb chop beef chop
+Query Count: 30
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 785823
+Query: librari consid heart univers
+Query Count: 30
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.14285714285714285, 0.125, 0.2222222222222222
+Similarity Score: 0.5169175200033383, Document ID: 3244575_1, Document: tri librari
+Similarity Score: 0.504345293728132, Document ID: 4297168_1, Document: call librari
+
+Query ID: 2815090
+Query: clone affect commun
+Query Count: 31
+Relevant Documents: 8
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 0.8, 0.6666666666666666, 0.7142857142857143, 0.75, 0.7777777777777778
+Similarity Score: 0.7215062267909462, Document ID: 152846_3, Document: clone
+Similarity Score: 0.7215062267909462, Document ID: 2609953_22, Document: clone
+Similarity Score: 0.7215062267909462, Document ID: 2030149_1, Document: clone
+Similarity Score: 0.6066524199245003, Document ID: 3260467_6, Document: agre clone
+Similarity Score: 0.5260992694839535, Document ID: 2370312_2, Document: human clone creation genet ident copi exist previous exist human grow clone tissu individu term gener use refer artifici human clone human clone form ident twin commonplac clone occur natur process reproduct read click link
+Similarity Score: 0.517989915147572, Document ID: 2370312_6, Document: think peopl like shouldnt clone
+Similarity Score: 0.4932583321370807, Document ID: 2815090_0, Document: clone happen compani clone cat charg 5000000 dollar pop clone dead cat low price 3000000 didnt get lot busi humain societi put busi say mani littl anim need home clone old dead petsth first clone kitti name copi cat learn stuff great think question would provid best answer caus grade could care less flunk
+Similarity Score: 0.489447404005835, Document ID: 559015_3, Document: clone method reproduct use copi cell individu produc clone dna except error mutat copi clone genet ident origin dna natur certain non-sexu speci like bacteria employ clone reproduct
+
+Query ID: 2713171
+Query: sentenc mean
+Query Count: 16
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 1821193
+Query: peopl fee poison sugar kid easter chocol jesu
+Query Count: 41
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.6666666666666666, 0.5, 0.6, 0.5, 0.42857142857142855, 0.5, 0.4444444444444444
+Similarity Score: 0.5953981188306626, Document ID: 1821193_0, Document: peopl fee poison kid easter arent think right kind heart chocol jesu one make that suggest make advertis need know easter alway sunday aros tomb
+Similarity Score: 0.4376958376197713, Document ID: 1821193_16, Document: eat let child need chocol chocol jesu local fred meyer sell chocol cross easter make sen eat jesu
+Similarity Score: 0.41444735137545596, Document ID: 157907_7, Document: chocol sugar chocol sugar make peopl get hyper go mad tantrum sugar unhealthi
+Similarity Score: 0.4016232968574036, Document ID: 157907_2, Document: sugar chocol sugar make hyper
+
+Query ID: 4185501
+Query: sun shine
+Query Count: 35
+Relevant Documents: 5
+Total Returned Documents: 10
+Precision List: 0.0, 0.5, 0.6666666666666666, 0.75, 0.8, 0.8333333333333334, 0.7142857142857143, 0.625, 0.5555555555555556
+Similarity Score: 0.7021378161509233, Document ID: 2045503_11, Document: avoid sun shine ur skin
+Similarity Score: 0.6931673924234119, Document ID: 1174906_5, Document: sun goe shine one day wont one day fuel sun get longer shine sun use nuclear fusion reaction fuel
+Similarity Score: 0.6798185201848559, Document ID: 4082589_3, Document: cuz cloud day sun shine
+Similarity Score: 0.6173205258222605, Document ID: 2019409_3, Document: hot gase make sun shine earth need sun surviv ray sun produc give heat light unit state
+Similarity Score: 0.6132739048851825, Document ID: 2213227_1, Document: ask caus effect sun shine rain small isol rain shower sun low enough angl shine underneath cloud cover
+
+Query ID: 4473331
+Query: keep habit indoor
+Query Count: 32
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.6666666666666666, 0.5, 0.4, 0.3333333333333333, 0.2857142857142857, 0.375, 0.3333333333333333
+Similarity Score: 0.6611240280537061, Document ID: 4373459_1, Document: keep cat indoor time
+Similarity Score: 0.5999957435181961, Document ID: 532418_2, Document: sure go keep indoor alway keep indoor hard keep kitti get use outsid indoor make sure window door alway close fix doesnt want go find love good luck
+Similarity Score: 0.5190830067934895, Document ID: 3234900_12, Document: cat let outsid love cat keep indoor cat live longer much healthy keep indoor
+
+Query ID: 4190287
+Query: switch school depress
+Query Count: 24
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.25, 0.2, 0.16666666666666666, 0.14285714285714285, 0.125, 0.1111111111111111
+Similarity Score: 0.6004406375450695, Document ID: 785804_2, Document: depress
+Similarity Score: 0.5952558117999769, Document ID: 1256399_1, Document: switch school depress leav friendsand meet new peopl peopl dont know feel lone depress
+
+Query ID: 1937374
+Query: get 277 v
+Query Count: 28
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 0.0, 0.5, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.14285714285714285, 0.125, 0.1111111111111111
+Similarity Score: 0.5081034163929764, Document ID: 1937374_2, Document: voltag measur leg 480v 3 phase circuit neutral search around may abl find 277 v ac 120 v ac transform use revers requir 277 v ac
+
+Query ID: 1459749
+Query: dont asthma attack sex
+Query Count: 26
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.6666666666666666, 0.5, 0.6, 0.5, 0.5714285714285714, 0.5, 0.4444444444444444
+Similarity Score: 0.779253197315745, Document ID: 3331504_15, Document: asthma happen attack
+Similarity Score: 0.620328336059296, Document ID: 1459749_0, Document: dont tri sex walk street cold day see happen joke hope get well wish u sex less asthma attack
+Similarity Score: 0.5616663368476196, Document ID: 552511_2, Document: asthma check bodi major attack die serious
+Similarity Score: 0.523726670426057, Document ID: 341482_2, Document: asthma lung diseas intermitt narrow bronchi airway caus short breath wheez cough ill often start childhood develop age lea 1 child 7 unit kingdom suffer asthma number affect increas dramat recent year childhood asthma outgrown half case asthma attack muscl wall airway contract caus narrow line airway also becom swollen inflam produc excess mucu block small airway peopl allerg reaction trigger asthma attack allerg type asthma tend occur childhood may develop associ eczema certain allerg condit hay fever rhiniti suscept condit frequent run famili may inherit substanc call allergen know trigger attack allerg asthma includ pollen house-dust mite mould dander saliva furri anim cat dog rare case fod milk egg nut wheat provok allerg asthmat reaction peopl asthma sensit aspirin take may trigger attack asthma start adulthood usual identifi allerg triger 1st attack sometim bring respiratori infect
+
+Query ID: 23464
+Query: girl beauti
+Query Count: 26
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.5, 0.6, 0.5, 0.42857142857142855, 0.375, 0.3333333333333333
+Similarity Score: 0.9343809007595782, Document ID: 23464_1, Document: girl beauti eye beauti see girl
+Similarity Score: 0.8157534484907365, Document ID: 2032328_1, Document: get beauti girl like that
+Similarity Score: 0.7376022205923214, Document ID: 1439894_3, Document: beauti
+
+Query ID: 4377861
+Query: handset sequel
+Query Count: 9
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 3385681
+Query: red bull soo bad peopl soo popular
+Query Count: 50
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.6666666666666666, 0.75, 0.6, 0.5, 0.5714285714285714, 0.5, 0.4444444444444444
+Similarity Score: 0.578935183043268, Document ID: 797333_5, Document: unknown territori peopl love hate sea soo mani danger soo peac time
+Similarity Score: 0.5525078685763403, Document ID: 1027890_3, Document: beef tast way well soo bad chicken tast ok soo much beter
+Similarity Score: 0.5329541432352354, Document ID: 1161848_7, Document: think yorki realli cute soo small loveabl soo small
+Similarity Score: 0.49682496749069144, Document ID: 797333_2, Document: beacus soo relax
+
+Query ID: 1794677
+Query: treat ann scar
+Query Count: 24
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 3301173
+Query: design road crust nation highway
+Query Count: 29
+Relevant Documents: 5
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.25, 0.2, 0.3333333333333333, 0.42857142857142855, 0.375, 0.4444444444444444
+Similarity Score: 0.43992387246599685, Document ID: 1864386_3, Document: crust move
+Similarity Score: 0.3871042580414408, Document ID: 216591_1, Document: im sure think differ highway main hi speed road bi way way secondari road
+Similarity Score: 0.38385985688720237, Document ID: 4326990_0, Document: blue star highway highway marker memori sacrific america arm forc wwii highway program start 1945 nation council state garden club
+Similarity Score: 0.3829171031455546, Document ID: 2300405_11, Document: road import america begin although entrepreneur cyru averi tulsa oklahoma john woodruff springfield missouri deserv credit promot idea interregion link chicago lo angel lobbi effort realiz dream merg nation program highway road develop legisl public highway first appear 1916 revis 1921 congress enact even comprehens version act 1925 govern execut plan nation highway construct offici numer design 66 assign chicago-to-lo angel rout summer 1926 design come acknowledg one nation princip east-west arteri outset public road planner intend unit state 66 connect main street rural urban commun along cours practic reason small town prior access major nation thoroughfar httpwwwnational66com66hstryhtml
+Similarity Score: 0.38108475622797827, Document ID: 3301173_1, Document: answer give aaron g succinct accur also way design highway unit kingdom inde design code share common heritag main sourc design inform dmrb design manual road bridg may view line refer link
+
+Query ID: 204633
+Query: memori
+Query Count: 32
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.25, 0.2, 0.3333333333333333, 0.42857142857142855, 0.375, 0.3333333333333333
+Similarity Score: 1.0, Document ID: 3176625_17, Document: memori
+Similarity Score: 0.6842383729582002, Document ID: 1758701_4, Document: memori one first thing go
+Similarity Score: 0.6833173764893247, Document ID: 1459671_15, Document: long term memori short term memori loss
+
+Query ID: 3960080
+Query: dont commerci plane fli north pole
+Query Count: 26
+Relevant Documents: 6
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.5, 0.6, 0.5, 0.5714285714285714, 0.625, 0.6666666666666666
+Similarity Score: 0.6256101884031444, Document ID: 3960080_4, Document: dont fli magnet north pole mess instrument dont fli geograph north pole noth navig
+Similarity Score: 0.5852326093027174, Document ID: 3960080_2, Document: cours notbecaus storm strong that dont use commerci plane fli north pole plane get balanc strong storm
+Similarity Score: 0.5455867500553094, Document ID: 110916_2, Document: call north pole actual scientificli speak north seek pole south pole south seek pole pole magenet seek south pole north pole vi versa call north pole actual pole attract actual north pole bottom earth
+Similarity Score: 0.5392160298339717, Document ID: 1734561_1, Document: get plane ticket north pole bring cup water
+Similarity Score: 0.5360239642259879, Document ID: 1680772_1, Document: south pole south direct north north day south pole night north pole winter south pole summer north south pole opposit north pole
+Similarity Score: 0.5260502213253161, Document ID: 1045361_0, Document: one near north pole
+
+Query ID: 1262692
+Query: get rid simpl back
+Query Count: 31
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 558570
+Query: citi put ban pit bull revers decis
+Query Count: 28
+Relevant Documents: 6
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.75, 0.8, 0.8333333333333334, 0.7142857142857143, 0.625, 0.6666666666666666
+Similarity Score: 0.5627947679215333, Document ID: 558570_6, Document: dont revers decis put
+Similarity Score: 0.4999517355382622, Document ID: 1619157_1, Document: big head pit bull power bite pit bull lock jaw
+Similarity Score: 0.47482097005056284, Document ID: 558570_2, Document: realli hate say know feel there lot honest option breed-specif legisl bsl assum buckl outrag ban option pit bull citi verifi outlook bleak know wrong know wrong peopl sign petit know wrong use live also breed ban pit bull dog regist boxer mix human societi there alway pit bull pure breed argument sinc pit bull pure breed accord ukc anyon own pitti that say stubborn like dog tri protect petit publicli protest anyth legal tell citi wrong bug approv ban give never give hope god bless dog citi also gothicmidnight point peopl fight dog wont slow anoth law
+Similarity Score: 0.4557856965382083, Document ID: 2970919_5, Document: dog akc regist although akc doesnt recognis pit bull healthi good show record ofacref score might abl work nice deal howev run mill pit bull wors yet breed pit bull litter unpap unproven unneed pit bull puppi next noth everi shelter america overrun pit bull unless superior show anim stupid pay profit amount money one
+Similarity Score: 0.45517502581556635, Document ID: 3040519_7, Document: there dozen commun ban pit bull lot medium hype peopl get kill pit bull control studi subject find german shepherd chow statist like bite howev pit bull bite like fatal lot legisl base statist data cdc break dog bite relat fatal accord breed dog right rottweil pit bull top list statisit break dog bite relat fatal inaccur lot way account percentag dog popul - popular breed obvious show rare one also take account role owner play reput pit bull often select peopl want mean dog make golden retriev mean want wouldnt get one want pit bull end like mean bc like purchas idiot post list resourc page rotti v pit bull would like look
+Similarity Score: 0.4347768340577921, Document ID: 1391529_15, Document: agre think peopl licens breed dog pit bull especi love pit bull death peopl think viciou killer ignor love anim reason see mean one 1 inbreed 2 stupid owner want viciou dog want fight dog peopl want mean pit bull abus pit bull think licens breed dog licens need find good home dog alreadi know never happen hard control sure would nice love pit bull
+
+Query ID: 1167882
+Query: differ type sin caus
+Query Count: 30
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.1111111111111111
+Similarity Score: 0.6057207013660586, Document ID: 3143818_2, Document: caus differ
+
+Query ID: 3295055
+Query: caus skin discolor specif widen skin finger
+Query Count: 33
+Relevant Documents: 5
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.25, 0.4, 0.5, 0.42857142857142855, 0.5, 0.5555555555555556
+Similarity Score: 0.4439974143724429, Document ID: 2774257_1, Document: bruis bleed skin discolor come blood
+Similarity Score: 0.4414083521635255, Document ID: 3295055_0, Document: could skin finger actual get tan skin finger expos sun stay color
+Similarity Score: 0.41529731577475054, Document ID: 1767104_35, Document: ill effect skin caus skin cancer blind
+Similarity Score: 0.4095785259305941, Document ID: 3766794_1, Document: suburn skin discolor cancer
+Similarity Score: 0.4088337083652138, Document ID: 3378241_12, Document: antibiot specif skin problem
+
+Query ID: 100653
+Query: go get copi letter commend present citi san diego
+Query Count: 32
+Relevant Documents: 10
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0
+Similarity Score: 0.49653216723427945, Document ID: 3186954_1, Document: san diego much well weather
+Similarity Score: 0.45728804555780067, Document ID: 1814059_0, Document: u young kid u want take knott berri farm disneyland u old kid take magic mountain spring time go san diego sea world san diego zoo wild anim park real beauti n san diego
+Similarity Score: 0.42835661251256907, Document ID: 1466730_14, Document: go california alway warm hear san diego realli nice
+Similarity Score: 0.4274957667299537, Document ID: 1000063_0, Document: would like san diego underwat real enough
+Similarity Score: 0.4177743458421479, Document ID: 221513_0, Document: san diego doesnt suprem court suprem court state california san diego someth call superior court click linki phone number san diego superior court
+Similarity Score: 0.41288625023927233, Document ID: 3616874_1, Document: san diego assum answer question also ask anoth question tour go 2 option cruis packag open question mine would realli appreci input sinc know san diego dont thank
+Similarity Score: 0.4049524667105378, Document ID: 1948316_0, Document: san diego tell yer si one
+Similarity Score: 0.3644374887221524, Document ID: 3587356_4, Document: depend station countri im station san diego email address mcintyreajasonusnavysdgov mcintyreajason -- name usnavysd- unit state navi san diego gov govern
+Similarity Score: 0.3516010596490424, Document ID: 3186954_6, Document: one pari island one san diego either one make marin
+Similarity Score: 0.34178007954816086, Document ID: 2706031_1, Document: would rightwhi san diego doesnt use peso also
+
+Query ID: 2619912
+Query: save sin-and bear jesu say except recent bear didyou
+Query Count: 33
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.14285714285714285, 0.25, 0.2222222222222222
+Similarity Score: 0.43782383199580444, Document ID: 354936_11, Document: without sin bear light sin bear heavi load
+Similarity Score: 0.39119727399802906, Document ID: 1325977_13, Document: immacul concept refer mari jesu jesu bear without origin sin god second person triniti mari also bear without origin sin everi humang bear origin sin except mari god save origin sin becom mother jesu great human god make
+
+Query ID: 1663853
+Query: wet dream
+Query Count: 35
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.14285714285714285, 0.125, 0.1111111111111111
+Similarity Score: 0.7771824112525099, Document ID: 1250446_2, Document: definit old enough wet dream wet dream uncontrol ejacul semen peni sleep fluid creami clear color boy experi wet dream age 12 18 gener boy less wet dream start masturb puberti also teenag becom sexual activ experi few longer wet dream
+Similarity Score: 0.6995482798907707, Document ID: 823188_1, Document: dream
+
+Query ID: 2592121
+Query: rollov 401k real estat
+Query Count: 32
+Relevant Documents: 8
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.5, 0.6, 0.6666666666666666, 0.7142857142857143, 0.75, 0.7777777777777778
+Similarity Score: 0.4724138723407333, Document ID: 3313253_11, Document: real estat money
+Similarity Score: 0.3943367296888164, Document ID: 4195045_0, Document: normal real estat class meet state requir take real estat agent exam pas exam real estat agent state requir sponsor real estat firm take exam contact state real estat depar specif requir state
+Similarity Score: 0.39335053240613743, Document ID: 2179993_2, Document: money real estat washington post articl yesterday economi real estat build fact job creat unit state last year real estat relat sector flat
+Similarity Score: 0.3834435145512094, Document ID: 2299281_4, Document: invest real estat work right
+Similarity Score: 0.3729300824246493, Document ID: 218380_2, Document: low interest rate equal high real estat price high interest rate equal low real estat price high low demand real estat one particular area also chang real estat price area
+Similarity Score: 0.3656694534689041, Document ID: 403749_1, Document: check websit interest real estat check profil use link build true wealth real estat
+Similarity Score: 0.36182454434541267, Document ID: 3387586_1, Document: call oklahoma properti apprais real estat agent mayb talk free real estat lawyer
+Similarity Score: 0.358784681967277, Document ID: 275185_1, Document: invest club blog real estat forum local real estat agent write blog subject credit manag mortgag real estat trend etc check inform may help
+
+Query ID: 2182052
+Query: lemonad restaur sometim differ
+Query Count: 28
+Relevant Documents: 9
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.8571428571428571, 0.875, 0.8888888888888888
+Similarity Score: 0.6356578384121376, Document ID: 2182052_3, Document: set offici recip lemonad lemonad differ restaur tast differ like grandmoth cooki v toll hous get idea
+Similarity Score: 0.609818380813247, Document ID: 3491953_4, Document: lemonad pink lemonad differ know color what point
+Similarity Score: 0.5803538408573219, Document ID: 181119_97, Document: lemonad stand
+Similarity Score: 0.5803538408573219, Document ID: 144229_4, Document: lemonad stand
+Similarity Score: 0.5803538408573219, Document ID: 1847448_5, Document: lemonad stand
+Similarity Score: 0.5690535167556539, Document ID: 2182052_4, Document: make differ sometim much water sugar much lemonad even
+Similarity Score: 0.542641062779921, Document ID: 3862956_8, Document: 1 go home 2 make lemonad
+Similarity Score: 0.5233304476493422, Document ID: 104625_7, Document: let ask make lemonad well didnt regular lemonad lemon water sugar pink lemonad must mean artifici flavor ad give color
+Similarity Score: 0.5226185404286856, Document ID: 104625_9, Document: like lemonad well pink lemonad pink lemonad sweet lemonad kinda sour sweet time get pink think put food color sure
+
+Query ID: 1623623
+Query: improv fuel effici 2004 ford icon
+Query Count: 27
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 3078448
+Query: prevent chicken dri cook
+Query Count: 40
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.14285714285714285, 0.125, 0.1111111111111111
+Similarity Score: 0.5321190184146313, Document ID: 3923771_6, Document: cook chicken pressur cook marin past
+
+Query ID: 3074429
+Query: understand islam muslim better
+Query Count: 39
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 0.8, 0.6666666666666666, 0.5714285714285714, 0.5, 0.4444444444444444
+Similarity Score: 0.5542693553061186, Document ID: 3515884_16, Document: im muslim say true muslim understand islam right islam learn forc one convert islam begin islam big forc kill one muslim exampl muslim go egypt thechristain egyptian themeselv help muslim injustic roman merci freedom muslim give return egyptian church roman take
+Similarity Score: 0.5469090969149006, Document ID: 2763093_20, Document: thank god bear muslim god show right path proud muslim peac islam reason everi bear muslim remain muslim till death that muslim leave islam islam fast grow religion world today attract teach submiss one true creator islam make sen
+Similarity Score: 0.5401597940628804, Document ID: 3339774_1, Document: muslim peopl believ islam religion
+Similarity Score: 0.5324491977464315, Document ID: 600468_1, Document: 1 muslim read quraan tri understand real mean 2 muslim practic islam rule life speak talk islam 3 beliv allah trust alway best guid muslim
+
+Query ID: 1119420
+Query: well black light light black light
+Query Count: 32
+Relevant Documents: 6
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.5, 0.4, 0.5, 0.5714285714285714, 0.5, 0.5555555555555556
+Similarity Score: 0.9618240751384132, Document ID: 3271422_0, Document: black light
+Similarity Score: 0.6813372797962189, Document ID: 3165940_2, Document: haha see black light come back reason black ink black paper black absorb larg amount light thing black hole strong absorb light come even close see noth black
+Similarity Score: 0.6486931850718296, Document ID: 3635652_0, Document: dont project black part film block light black object absorb light
+Similarity Score: 0.6299935657915048, Document ID: 3165940_3, Document: that black hole absorb light fall event horizon point past cant escap graviti even move speed light black ink black paper reflect light-they arent complet black
+Similarity Score: 0.6236264919896033, Document ID: 3440185_6, Document: black absenc light close eye retina receiv light perceiv black
+Similarity Score: 0.6207218406655948, Document ID: 1784267_3, Document: mean im brown black light
+
+Query ID: 1290612
+Query: anxieti depress seem coexist
+Query Count: 32
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 0.75, 0.6, 0.5, 0.42857142857142855, 0.375, 0.3333333333333333
+Similarity Score: 0.6660751640427903, Document ID: 1290612_3, Document: depress dont seem find way anxieti arous lack way also due physic phisiolog chang bodi dont seem coexist case dont coexist odd
+Similarity Score: 0.5491930910887887, Document ID: 971813_1, Document: anxieti v depress anxieti v depress anxieti everyth anxieti anxieti wwwanxietyiscomdepression-and-anxiety-helpanxiety-vs-depress
+Similarity Score: 0.4485069312676189, Document ID: 1782359_4, Document: anxiou point interfer everyday function usual clinic anxieti profession diagnos sure depend much anxieti keep normal routin fortun anxieti easi treat panic attack differ gener anxieti disord anxieti relat specif issu health gener anxieti would situat anxieti also depress anxieti frequent travel togeth therapist recommend find good therapist talk good luck
+
+Query ID: 2529114
+Query: sinc prematur evacu problem satisfi girl
+Query Count: 35
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.6666666666666666, 0.75, 0.6, 0.5, 0.42857142857142855, 0.5, 0.4444444444444444
+Similarity Score: 0.4170389429759448, Document ID: 44592_6, Document: prematur even word
+Similarity Score: 0.3736720114844324, Document ID: 3406865_6, Document: ejacul prematur
+Similarity Score: 0.367522379662398, Document ID: 719961_1, Document: first ewwwwwwwwww secondli prematur ejacul prematur erect would big problem lol
+Similarity Score: 0.33339806718905585, Document ID: 2598226_3, Document: know prematur occur grow exist customari correct assign time uncommonli unexpectedli earli prematur end bear gestat period less normal time prematur infant
+
+Query ID: 204963
+Query: 5 5 mean
+Query Count: 34
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 4367654
+Query: april 19th import
+Query Count: 42
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 0.0, 0.5, 0.6666666666666666, 0.5, 0.4, 0.5, 0.42857142857142855, 0.375, 0.3333333333333333
+Similarity Score: 0.4512615948938482, Document ID: 1839970_12, Document: someon leav first april
+Similarity Score: 0.4504941609843858, Document ID: 1972970_6, Document: alway ion april - 3rd sunday april precis
+Similarity Score: 0.4263626832419213, Document ID: 3225840_2, Document: april 8th
+
+Query ID: 3639660
+Query: cigarett yellow filter
+Query Count: 21
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.14285714285714285, 0.125, 0.1111111111111111
+Similarity Score: 0.5476892161884748, Document ID: 1470267_11, Document: yellow
+
+Query ID: 4197214
+Query: gt feel like miss sexual intercours
+Query Count: 41
+Relevant Documents: 7
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.6666666666666666, 0.75, 0.8, 0.6666666666666666, 0.7142857142857143, 0.75, 0.7777777777777778
+Similarity Score: 0.6209511625180134, Document ID: 4357256_3, Document: sexual intercours
+Similarity Score: 0.5567444711845648, Document ID: 2548834_5, Document: ever sexual intercours
+Similarity Score: 0.5273602296450488, Document ID: 4117203_4, Document: far know sexual intercours
+Similarity Score: 0.502553774101211, Document ID: 4309174_11, Document: pleasur sexual intercours
+Similarity Score: 0.49043282541734723, Document ID: 2548834_1, Document: intercours
+Similarity Score: 0.48511085531857845, Document ID: 2244159_15, Document: havent sexual intercours anyon
+Similarity Score: 0.48260569086370686, Document ID: 3505458_10, Document: lubric sexual intercours
+
+Query ID: 1015624
+Query: what definit bloodi mari
+Query Count: 22
+Relevant Documents: 9
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.75, 0.8, 0.8333333333333334, 0.8571428571428571, 0.875, 0.8888888888888888
+Similarity Score: 0.7879360950020603, Document ID: 1808671_4, Document: bloodi mari
+Similarity Score: 0.6382788879158835, Document ID: 2553965_5, Document: yeah say get bloodi mari
+Similarity Score: 0.562543489966332, Document ID: 3921805_6, Document: bloodi bibl bloodi book dont bloodi believ bloodi look
+Similarity Score: 0.5359093876309967, Document ID: 3921805_18, Document: -- - there bloodi bibl there bloodi book dont bloodi believ bloodi look
+Similarity Score: 0.5308091955244971, Document ID: 489357_6, Document: mari queen england 1553 1558 becam know bloodi mari reign successor elizabeth account perceiv feroc religi persecut bear epithet ever sinc bloodi mari also name ghost witch appear child folklor similar tale use differ name sever fiction charact also call bloodi mari folklor child street cultur bloodi mari name child game ghost witch name sometim name mari worth say appear mirror summon one common way particip attempt make appear stand mirror dark repeat name three time though mani variat includ chant hundr time chant midnight spin around rub one eye mean disori peopl version legend summon must say bloodi mari kill son kill babi variant bloodi mari often believ spirit mother often widow murder child woman murder shortli wed stori mari suppos wrongli accus kill child querent might say believ mari worth similar anoth game involv summon bell witch mirror midnight similar ritual also use summon spirit movi beetlejuic 1988 candyman 1992 game often test courag say bloodi mari summon would murder summon often quit violent way goug eye variat say querent must look directli imag mirror reveal querent futur particularli concern marriag child bloodi mari worth typic describ child-murderess live local legend take root centuri ago often specif local graveyard tombston becom attach legend hand variou peopl surmis lore taunt bloodi mari babi may relat tenuous folklor queen mari 1 2 queen life mark number miscarriag fals pregnanc mari success bear child would establish roman cathol success threaten continu religi persecut death specul exist miscarriag deliber induc result retel tale make bloodi mari queen drive mad loss child 3 like howev queen mari provid nicknam bloodi mari folklor also confus tell stori mari queen scot bloodi mari sometim say bath blood child victim order retain youth complexion would appear confound elizabeth báthori mirror ritual bloodi mari summon may also relat form divin involv mirror dark perform halloween sort folklor detail may vari particular tale encourag young woman walk flight stair backward hold candl hand mirror darken hous gaze mirror suppos abl catch view futur husband face howev chanc would see skull-fac grim reaper instead mean cours destin die marri
+Similarity Score: 0.5272110843807789, Document ID: 2115670_6, Document: drink ceaser bloodi mari
+Similarity Score: 0.5227782368732079, Document ID: 3241225_0, Document: egg benedict bloodi mari
+Similarity Score: 0.5091181590987266, Document ID: 2553965_10, Document: bloodi mari mix vodka tomato juic theori look bite like blood mari queen scott behead sister queen elizabeth 1 messi may loos connect drink real bloodi mari stori real bloodi mari stori ok mari real person one henri 8th daughter die becam queen kill behead sister httpunsolvedmysteriescomusm177423html best bloodi mari recip wwwapollosaturncom best bloodi mari help link best bloodi mari recip find best bloodi mari recip netstercom httpwwwapollosaturncombest-bloody-mary-recipedhtml cook recip loretta bloodi mari recip want way tri recip loretta new orlean httpwwwcooksrecipescombeveragelorettas-bloody-mary-recipehtml tequila bloodi mari recip epicuriouscom pour mixtur tall glassgarnish bloodi mari celeri lime wedg httpwwwepicuriouscomdrinkingdrink_viewsviews200706 ok roll firework call catherin wheel name saint catherin put death tortur wheel legal tyranni - mediev instrument tortur - break instrument tortur chapter 4 - break wheel mediev person wheel fear devic produc httpwwwlawbuzzcomtyrannytorturewheelhtm catherin wheel live cwvill life know catherin wheel mediev tortur devic name st catherin martyr die other may know catherin wheel httpwwwnotalotcomcwvillewelcomehtm
+Similarity Score: 0.5069467592778607, Document ID: 2553965_3, Document: bloodi mari unauthor biographi controversi intrigu two ingredi go classic cocktail al martinez spill stori relat linka well bloodi sip bloodi mari new york st regi hotel presenc great power god fernand pete petiot say invent becom america favorit morning-aft drink hangov remedi compel infam hair dog sit room king cole bar pete bloodi introduc america 1930 quit cathedr nonetheless loung exquisit secular tast enclos comfort dark wood domin larg mural merri old soul surround entourag lyric world nurseri rhyme accord drink lore encapsul christoph ohara book bloodi mari william nash photograph glori want drink page bloodi invent bartend petiot harri new york bar pari basic recip consist vodka tomato juic worcestershir sauc lemon juic salt cayenn pepper legend name queen mari tudor bloodi mari cathol daughter henri viii five-year reign manag kill impress number protest even standard 16th-centuri england slaughter 300 heret seem excess other ascrib name bar chicago call bucket blood still other believ base complaint london visitor harri bar keep drink petiot tomato juic libat go wife mari use one england popular adject man declar wife bloodi nag bloodi imposs among bloodi evil petiot fit whimsi name drink bloodi mari believ bloodi stori like seem prefer influenc bloodi queen howev cant toward good scare urban legend woman name mari injur accid tear face badli bleed death spirit say roam stand mirror say bloodi mari three time mangl visag appear dash door shell rip youll sure need drink continu like tale john jacob astor fell love bloodi harri bring petiot drink st regi astor own word exist spread like dirti joke time bloodi becam standard morning-aft libat later one drink favor modern invent call brunch lead becom one time third popular cocktail countri fear name might offend howev astor renam red snapper forgiv lack snap origin end barrel bad idea mango martini pet rock resid mani way prepar bloodi mari cook potato king cole bartend gavin fitzgibbon somewhat cocktail historian assur bloodi concoct recip creat petiot proclaim grand style purist attempt popular unlik day pari howev drink st regi sell 17 nice drink worth three time price taxi take hotel first place quest elus queen bloodi tast sampl diver venu noisi singl joint call gladston la beach melros place four-star bastid eleg bull
+
+Query ID: 1082595
+Query: mean mobil technolog
+Query Count: 19
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.2857142857142857, 0.375, 0.3333333333333333
+Similarity Score: 0.937664392726277, Document ID: 1082595_1, Document: technolog mobil
+Similarity Score: 0.5330392346940787, Document ID: 2848781_2, Document: global system mobil commun cellular phone technolog
+Similarity Score: 0.5251971921518153, Document ID: 64761_0, Document: yeah first guy say cellphon guess origin name mobil mean conveni carri like mobil home mobil scooter etc
+
+Query ID: 3239329
+Query: wee lot cold weather especi night
+Query Count: 36
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.14285714285714285, 0.125, 0.1111111111111111
+Similarity Score: 0.6324194525945053, Document ID: 3685035_20, Document: probabl wee cold
+
+Query ID: 3874326
+Query: come compton design black peopl
+Query Count: 35
+Relevant Documents: 5
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.5, 0.6, 0.6666666666666666, 0.7142857142857143, 0.625, 0.5555555555555556
+Similarity Score: 0.4387126323777638, Document ID: 3874326_9, Document: compton california lo angel counti 10 mile lo angel california citi includ lo angel -- long beach metropolitan area year 2000 censu 93493 peopl live compton compton 37 adult marri larg famili resid common watch stroller hard swing rattl citi without hit preschool approxim 83 compton non-whit diver popul one featur compton 2000 compton median famili incom 33021 live standard mani peopl compton continu lag behind citi state citi way go catch rest california amount colleg educ achiev resid categori count percent total popul 93493 100 male 45857 49 femal 47636 51 18 35993 385 18 57500 615 65 6437 69 median age 25 averag famili size 445 white 15625 167 african-american 37690 403 asian 237 03 american indian alaskan 656 07 34911 373 mix race 3389 36 hispan includ categori 53143 568 median famili incom 1999 33021 popul poverti 25771 28
+Similarity Score: 0.4233502924204105, Document ID: 3146069_12, Document: black peopl
+Similarity Score: 0.38728899954455737, Document ID: 648841_2, Document: compton south lo angel cuz mani cholo
+Similarity Score: 0.37907042737955626, Document ID: 1817847_1, Document: black peopl look black peopl rather peopl your black doesnt mean identifi black peopl
+Similarity Score: 0.36734241186128924, Document ID: 2691737_4, Document: call gang there gag run alon think guy compton answer well tho ask
+
+Query ID: 1254390
+Query: dead fri chicken
+Query Count: 30
+Relevant Documents: 10
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0
+Similarity Score: 0.8406424634752636, Document ID: 2198611_7, Document: fri chicken
+Similarity Score: 0.8406424634752636, Document ID: 2649139_13, Document: fri chicken
+Similarity Score: 0.7616023881108887, Document ID: 4015240_3, Document: fri would chicken-chicken fri steak
+Similarity Score: 0.7308870826808478, Document ID: 855741_3, Document: caus fri like chicken
+Similarity Score: 0.6942222744651729, Document ID: 3452712_13, Document: fri chicken good stuff
+Similarity Score: 0.6882496109126157, Document ID: 4396202_2, Document: tast like fri chicken
+Similarity Score: 0.6757640069922142, Document ID: 4396202_1, Document: chicken fri steak call steak fri like fri chicken
+Similarity Score: 0.6655777432590126, Document ID: 4015240_5, Document: prepar like fri chicken
+Similarity Score: 0.6643615908584399, Document ID: 855741_0, Document: think make like fri chicken saw chicken fri chicken menu day ago like wtf
+Similarity Score: 0.6610830757307716, Document ID: 855741_7, Document: steak fri like would fri chicken henc chicken fri steak
+
+Query ID: 4018891
+Query: know particular term phrase copyright
+Query Count: 84
+Relevant Documents: 7
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.6666666666666666, 0.5, 0.6, 0.6666666666666666, 0.7142857142857143, 0.75, 0.7777777777777778
+Similarity Score: 0.5589687854491294, Document ID: 4018891_0, Document: term phrase copyright term phrase trademark check see phrase copyright go wwwusptogov use te howev te never realli consid 100 accur true way know tri trademark word phrase contact uspto inquiri im sure cost someth
+Similarity Score: 0.5065374746124229, Document ID: 1380654_35, Document: didnt know copyright name
+Similarity Score: 0.4629042251166306, Document ID: 4401156_5, Document: appli work copyright
+Similarity Score: 0.459843590084687, Document ID: 4018891_62, Document: say copyright care use
+Similarity Score: 0.45972351872829076, Document ID: 4018891_4, Document: trademark word cant copyright copyright work take varieti form literari work music work dramat work includ digit medium includ email music webpag graphic also protect copyright effect one assum anyth someon creat put tangibl form copyright trust librarian also mani item copyright exampl idea unrecord choreograph work copyright list thing fall copyright law click
+Similarity Score: 0.4398215750219404, Document ID: 176869_7, Document: copyright infring unauthor use copyright materi manner violat one copyright owner exclus right right reproduc perform copyright work make deriv work build upon bootleg
+Similarity Score: 0.4298474308918299, Document ID: 4018891_15, Document: someon alreadi write copyright special process need follow copyright appli automat trademark patent go formal process get copyright
+
+Query ID: 3552010
+Query: parent put kid restrict
+Query Count: 33
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.14285714285714285, 0.25, 0.2222222222222222
+Similarity Score: 0.5404133903511713, Document ID: 3286609_2, Document: parent want anoth kid
+Similarity Score: 0.46678641069307275, Document ID: 1458125_0, Document: kid
+
+Query ID: 1968489
+Query: auto insur use
+Query Count: 32
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 0.0, 0.5, 0.6666666666666666, 0.5, 0.4, 0.5, 0.5714285714285714, 0.5, 0.4444444444444444
+Similarity Score: 0.5774774911955017, Document ID: 4425036_2, Document: massachusett regul auto insur use two three insur compani live mass know huge pain butt id like save alot car insur isnt go happen state
+Similarity Score: 0.5606602902159018, Document ID: 2803492_8, Document: look insur like insur transfer risk risk get auto accid risk die risk hous burn insur compani someth bad happen insur insur compani pay life agent simpliest way explain insur import
+Similarity Score: 0.5185874484329518, Document ID: 2803492_13, Document: insur gener speak provid dollar need someth bad happen need insur afford replac someth car insur case accid - dollar repair replac pay medic bill auto insur - much health insur - pay medic care life insur replac futur earn depend may need around includ pay debt disabl insur - replac paycheck work due injuri ill talk licens insur profession find one listen goal need heed profession advic
+Similarity Score: 0.5175825709773353, Document ID: 2803492_9, Document: need insur variou reason need health insur cover sick health issu hospit doctor visit expens insur help financi car must auto insur reason also cover unisur motorist
+
+Query ID: 443848
+Query: anybodi know could get free guid train nigerian duski
+Query Count: 30
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 4372730
+Query: doesnt bibl make sens
+Query Count: 64
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 0.0, 0.5, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.14285714285714285, 0.125, 0.1111111111111111
+Similarity Score: 0.597491978435182, Document ID: 3144958_10, Document: bibl common sens dont mix
+
+Query ID: 896725
+Query: good exercis get rid love handl
+Query Count: 29
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.125, 0.1111111111111111
+Similarity Score: 0.5072578422658137, Document ID: 3156932_2, Document: hope rid soon possibl think import thing love way without love handl think
+
+Query ID: 2180086
+Query: moment
+Query Count: 14
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 34041
+Query: symptom step throat
+Query Count: 32
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 229303
+Query: war continu afghanistan
+Query Count: 36
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.6666666666666666, 0.5, 0.4, 0.3333333333333333, 0.2857142857142857, 0.25, 0.2222222222222222
+Similarity Score: 0.5503143251008215, Document ID: 1930928_1, Document: know iraq war war afghanistan last long ww11
+Similarity Score: 0.47834071712926385, Document ID: 2020678_10, Document: democrat convinc larg portion american peopl iraq war mistak enter fals intellig take concentr afghanistan dont bother tell peopl saw intellig vote war want blame go republican 911 peopl readi go war afghanistan capabl comprehend iraq import front war terror
+Similarity Score: 0.43216376814757046, Document ID: 988600_7, Document: iraq afghanistan link way terrorist although war terroism tri get wipe relat group afghanistan iraq tie terror organ would wipe terroist afghanistan go way north korea kind terriost iraq would give chanc regroup
+
+Query ID: 2446614
+Query: could u get success
+Query Count: 34
+Relevant Documents: 7
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.6666666666666666, 0.75, 0.6, 0.6666666666666666, 0.5714285714285714, 0.625, 0.6666666666666666
+Similarity Score: 0.7944098129934869, Document ID: 1394986_5, Document: success
+Similarity Score: 0.6154708671788662, Document ID: 4387291_5, Document: success abil go one failur anoth loss enthusiasm think think cant right six essenti qualiti key success sincer person integr humil courtesi wisdom chariti success journey destin success get want happiness- want get success isnt far get distanc travel start man success get morn get bed night want
+Similarity Score: 0.5990780166604402, Document ID: 1297885_12, Document: success happi happi success
+Similarity Score: 0.5910726021614371, Document ID: 1787563_1, Document: mean success achiev goal desir u know realli success peopl keep command allahswt strive success god happi u u success
+Similarity Score: 0.5671030360855832, Document ID: 2655489_0, Document: help allow other get success
+Similarity Score: 0.5612139572857445, Document ID: 1297885_5, Document: know come forget share success other hope success life
+Similarity Score: 0.5440896056071458, Document ID: 488304_21, Document: definit success feel content life reach success unless happi realiti happi success inter combin happi reach success
+
+Query ID: 654124
+Query: abl concentr studi
+Query Count: 29
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.25, 0.4, 0.5, 0.42857142857142855, 0.375, 0.3333333333333333
+Similarity Score: 0.5970591994400912, Document ID: 4424647_3, Document: answer complex could concentr studi
+Similarity Score: 0.5656129257997443, Document ID: 2028407_0, Document: dont think concentr think might distract your distract good way concentr studi worri concentr
+Similarity Score: 0.5576310169338539, Document ID: 1694609_1, Document: turn comput concentr studi immedi
+
+Query ID: 3577501
+Query: sign puberti begin
+Query Count: 27
+Relevant Documents: 6
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.8571428571428571, 0.75, 0.6666666666666666
+Similarity Score: 0.8341997304218445, Document ID: 3085721_4, Document: go begin puberti
+Similarity Score: 0.6450567054677127, Document ID: 940641_12, Document: usual puberti
+Similarity Score: 0.6421581372318276, Document ID: 2939305_0, Document: puberti probabl
+Similarity Score: 0.6397329932325451, Document ID: 3085721_6, Document: puberti read
+Similarity Score: 0.6131359427423877, Document ID: 3085721_7, Document: go puberti mayb
+Similarity Score: 0.497557578284956, Document ID: 661162_0, Document: posit - sign puberti grown-up wet dream
+
+Query ID: 8293
+Query: men fantasi rape women
+Query Count: 25
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.25, 0.2, 0.3333333333333333, 0.2857142857142857, 0.375, 0.3333333333333333
+Similarity Score: 0.5363283845350586, Document ID: 2985404_9, Document: woman dont like fantasi never rape
+Similarity Score: 0.43330256058536876, Document ID: 2307305_9, Document: also lot men rape littl boy men rape men woman teacher sex student men rape littl girl know realli man would rape woman girl pervers mayb want fill power know make sick
+Similarity Score: 0.4170259208225008, Document ID: 3990173_6, Document: men rape prefer term rape survivor
+
+Query ID: 4012558
+Query: term milki way
+Query Count: 23
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.5, 0.6, 0.5, 0.42857142857142855, 0.375, 0.3333333333333333
+Similarity Score: 0.6241748683633972, Document ID: 1033025_0, Document: well know milki way galaxi
+Similarity Score: 0.5655640539748186, Document ID: 1790576_2, Document: big milki wive
+Similarity Score: 0.43540761662396604, Document ID: 4173985_4, Document: technic term expand bc right galaxi go milki way galaxi quit hard believ
+
+Query ID: 922849
+Query: peopl take life serious
+Query Count: 60
+Relevant Documents: 8
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.8571428571428571, 0.75, 0.7777777777777778
+Similarity Score: 0.9337480565502687, Document ID: 922849_7, Document: life take serious
+Similarity Score: 0.8788818068760431, Document ID: 4317770_7, Document: dont take life serious
+Similarity Score: 0.8112945632127264, Document ID: 1787414_2, Document: peopl say im good take life serious
+Similarity Score: 0.7528849751079482, Document ID: 922849_31, Document: dont know live take life serious
+Similarity Score: 0.741524903537963, Document ID: 4211335_3, Document: peopl take thing say serious
+Similarity Score: 0.7143928385371635, Document ID: 3480363_3, Document: peopl dont know take thing serious
+Similarity Score: 0.6018157986617392, Document ID: 922849_36, Document: think world take grain salt ye take serious also fun world would much well everyon werent scare hurt someon el feel polit incorrect behavior thing take serious like educ job famili think peopl think seriou thing take serious still fun somethingsomeon take serious life
+Similarity Score: 0.5927901239299198, Document ID: 1402231_0, Document: unfortun peopl take way serious bad
+
+Query ID: 2976644
+Query: amoeba catch prey
+Query Count: 25
+Relevant Documents: 5
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.6666666666666666, 0.75, 0.8, 0.6666666666666666, 0.7142857142857143, 0.625, 0.5555555555555556
+Similarity Score: 0.7058555392177169, Document ID: 2976644_0, Document: amoeba head toward unsuspect paramecium begin spread bodi catch prey late parameciumit catch amoeba spread even surround lunch microb start look like big mitten amoeba keep chang shape enclos prey paramecium soon complet insid amoeba amoeba absorb lunch directli insid cell wall
+Similarity Score: 0.4523523923983339, Document ID: 1440110_11, Document: share prey
+Similarity Score: 0.4264000863406687, Document ID: 3136314_1, Document: ye clean also catch prey tear meat eat
+Similarity Score: 0.42369756301775596, Document ID: 4226760_9, Document: dont think break cat instinct catch prey play food
+Similarity Score: 0.38261901468173726, Document ID: 2834368_0, Document: flexibl clean self good crouch catch prey
+
+Query ID: 1866981
+Query: know get
+Query Count: 64
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 4467100
+Query: sholomist mean
+Query Count: 12
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 2551845
+Query: gt dog get bl yet kill zardari non-ev
+Query Count: 43
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 3559048
+Query: sell junk car without titl
+Query Count: 23
+Relevant Documents: 5
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 0.75, 0.6, 0.5, 0.42857142857142855, 0.375, 0.4444444444444444
+Similarity Score: 0.777715097501518, Document ID: 3559048_1, Document: find someon buy junk car without titl
+Similarity Score: 0.6083092765264673, Document ID: 3559048_6, Document: think sell junk car junk yard titl sinc theyll scrap part happen get clunker road worthi junk yard appli salvag titl sell car dont know way best call counti clerk offic find there way avail
+Similarity Score: 0.5570823560407113, Document ID: 3694423_2, Document: need see titl make sure licens match doesnt dont titl issu person titl one sell car
+Similarity Score: 0.5216367890027847, Document ID: 3559048_9, Document: car legal sell titl bill sale nc anyway go dmv file new titl cost money junk worth cash wait time
+Similarity Score: 0.5139355074554908, Document ID: 1999015_2, Document: one go allow junk car wo titl spend money get titl give purpl heart deduct ever
+
+Query ID: 823384
+Query: armi person cut mid 1990
+Query Count: 31
+Relevant Documents: 6
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.5, 0.6, 0.6666666666666666, 0.5714285714285714, 0.5, 0.5555555555555556
+Similarity Score: 0.45948468414368926, Document ID: 437230_2, Document: armi
+Similarity Score: 0.45948468414368926, Document ID: 3596069_2, Document: armi
+Similarity Score: 0.39990226683529984, Document ID: 1062302_2, Document: could alway cut mid shin
+Similarity Score: 0.3887143045673141, Document ID: 3596069_1, Document: armi believ
+Similarity Score: 0.37200650139413977, Document ID: 1058887_3, Document: boot cut hair cut brother use one think armi hair cut
+Similarity Score: 0.3715177157684715, Document ID: 3242284_2, Document: mid 80
+
+Query ID: 849221
+Query: come religion dont peopl realiz histori repeat
+Query Count: 45
+Relevant Documents: 5
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.25, 0.4, 0.3333333333333333, 0.42857142857142855, 0.375, 0.4444444444444444
+Similarity Score: 0.5612549023384977, Document ID: 1222002_3, Document: keep repeat histori havent learn lesson yet histori repeat repeat
+Similarity Score: 0.49358406334686494, Document ID: 849221_7, Document: peopl faith religion think wrong religion dont see repeat although anyway
+Similarity Score: 0.48029847781036705, Document ID: 3449576_11, Document: ppl didnt learn histori repeat histori life
+Similarity Score: 0.4602254004623471, Document ID: 3674432_5, Document: time choic follow fate histori time find unit state repeat histori acquir knowledg know histori doom repeat mean chanc learn avoid repeat histori didnt didnt learn lesson cur past life rel
+Similarity Score: 0.45919428946132096, Document ID: 2186958_11, Document: peopl read histori mayb would learn war bad thing bring seem histori repeat
+
+Query ID: 3280768
+Query: islam hate america
+Query Count: 37
+Relevant Documents: 5
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.2857142857142857, 0.375, 0.4444444444444444
+Similarity Score: 0.6935419166268506, Document ID: 3280768_1, Document: islam hate america islam extremist hate america enough hijack plane crash build kill thousand men woman child
+Similarity Score: 0.5994572223649968, Document ID: 940993_0, Document: islam religion peopl hate peopl
+Similarity Score: 0.595577120742379, Document ID: 674348_6, Document: republican hate america hate freedom
+Similarity Score: 0.5912136670585955, Document ID: 3280768_16, Document: islam isnt hate radic islam hate like religion encourag follow becom fanat
+Similarity Score: 0.5631964326523633, Document ID: 668972_12, Document: america hate entir democrat free non-islam world big target
+
+Query ID: 4288761
+Query: stop husband exhum babi bodi compens
+Query Count: 45
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 0.75, 0.6, 0.5, 0.42857142857142855, 0.375, 0.3333333333333333
+Similarity Score: 0.4134817221813506, Document ID: 1192346_13, Document: stop babi
+Similarity Score: 0.4134817221813506, Document ID: 1848388_7, Document: stop babi
+Similarity Score: 0.3714027246496284, Document ID: 4288761_10, Document: bodi exhum without licenc home officesecretari state sure exact procedur may part procedur get consent well refus contact home offic see get inform pack avail type licenc get injunct stop anyth get licenc cost implic involv exhum child like prove anyth tri get ex husband write
+
+Query ID: 2847807
+Query: get rid cup
+Query Count: 30
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.25, 0.2, 0.16666666666666666, 0.14285714285714285, 0.125, 0.1111111111111111
+Similarity Score: 0.7154903810145717, Document ID: 99035_15, Document: get rid
+
+Query ID: 2018562
+Query: black lab howl law order theme song
+Query Count: 31
+Relevant Documents: 7
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 1.0, 0.8333333333333334, 0.8571428571428571, 0.875, 0.7777777777777778
+Similarity Score: 0.4257642403771219, Document ID: 2509689_6, Document: color lab black
+Similarity Score: 0.425693943510857, Document ID: 2018562_1, Document: dog howl habitu nois unusu black lab use howl polic siren - fire truck mind polic siren quiet mous even coyot howl couldnt get start one expert say dog howl music he sine along show he part pack
+Similarity Score: 0.40607769020973356, Document ID: 3565334_17, Document: lab
+Similarity Score: 0.38702360430861493, Document ID: 2018562_2, Document: black lab figur dog surpris everi day intellig great person think realli funni pick law order haul hilari tri sing see happen dog howl sing
+Similarity Score: 0.38082244958235995, Document ID: 2018562_8, Document: cocker spaniel open theme song young restless grow intro song close theme song sound warn faith pet sublimin
+Similarity Score: 0.3631169922265259, Document ID: 1931891_13, Document: part normal natur commun behavior howl use mean long-rang commun howl often associ wolv dog howl often howl signifi territori boundari locat pack member attract wolv mate dog typic howl siren form stimul live coupl firest dog thing think cute tri mimick sound siren
+Similarity Score: 0.36107091266347086, Document ID: 2548275_3, Document: black lab- radu love vampir movi black lab- shi love name white lab- bear look like polar bear pup white lab- buster sister-in-law name
+
+Query ID: 1035857
+Query: liber quick defend adam
+Query Count: 36
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 2008017
+Query: black peopl like fri chicken
+Query Count: 34
+Relevant Documents: 8
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.5, 0.6, 0.6666666666666666, 0.7142857142857143, 0.75, 0.7777777777777778
+Similarity Score: 0.8870848545146812, Document ID: 1983610_15, Document: reason black like fri chicken
+Similarity Score: 0.7693663647648623, Document ID: 855741_3, Document: caus fri like chicken
+Similarity Score: 0.7245644429923528, Document ID: 4015240_3, Document: fri would chicken-chicken fri steak
+Similarity Score: 0.724484142278775, Document ID: 4396202_2, Document: tast like fri chicken
+Similarity Score: 0.7191463956803963, Document ID: 1983610_10, Document: tast black peopl like fri
+Similarity Score: 0.7006186604384024, Document ID: 4015240_5, Document: prepar like fri chicken
+Similarity Score: 0.6877485108140406, Document ID: 4015240_6, Document: bread like chicken fri
+Similarity Score: 0.6865373877798151, Document ID: 855741_0, Document: think make like fri chicken saw chicken fri chicken menu day ago like wtf
+
+Query ID: 1862795
+Query: spend prolong time micrograv affect bodi astronaut
+Query Count: 25
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.5, 0.4, 0.5, 0.42857142857142855, 0.5, 0.4444444444444444
+Similarity Score: 0.40980251791921, Document ID: 1014001_5, Document: ask astronaut
+Similarity Score: 0.3217264631016381, Document ID: 2503963_8, Document: bodi astronaut remain univers long hit heavenli bodi
+Similarity Score: 0.3095532680539536, Document ID: 708039_1, Document: could astronaut alway want astronaut aerospac engin make realli good money typic work govern contract
+Similarity Score: 0.2969333241495048, Document ID: 226437_1, Document: ye astronaut unit state term cosmonaut soviet russian term get use hear new one chin astronaut call taikonaut chine word astronaut taikongyuan
+
+Query ID: 421753
+Query: get rid skunk
+Query Count: 41
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.5, 0.4, 0.3333333333333333, 0.2857142857142857, 0.25, 0.3333333333333333
+Similarity Score: 0.6496335809689705, Document ID: 131695_9, Document: anoth name skunk
+Similarity Score: 0.6496335809689705, Document ID: 1744720_1, Document: anoth name skunk
+Similarity Score: 0.5662152394892729, Document ID: 1744720_5, Document: pole cat skunk
+Similarity Score: 0.5620849897321819, Document ID: 3438374_14, Document: menstruat skunk
+
+Query ID: 1477322
+Query: peopl say german racist
+Query Count: 31
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 1607728
+Query: caus gray facial hair men
+Query Count: 27
+Relevant Documents: 8
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 0.75, 0.8, 0.8333333333333334, 0.8571428571428571, 0.875, 0.7777777777777778
+Similarity Score: 0.6362106863629808, Document ID: 3326879_1, Document: get two gray hair instead one gray hair
+Similarity Score: 0.5856729223909156, Document ID: 828575_0, Document: pogoniasi facial hair beard woman lot facial hair men
+Similarity Score: 0.5479568610377322, Document ID: 1376686_1, Document: ever watch someon tri cover gray hair dye mayb wonder granddad full head silver hair old pictur use dark brown get gray silver white hair natur part grow older here hair head make two part shaft - color part see grow head root - bottom part keep hair anchor scalp root everi strand hair surround tube tissu skin call hair follicl say fah-lih-kul hair follicl contain certain number pigment cell pigment cell continu produc chemic call melanin say meh-luh-nin give grow shaft hair color brown blond red anyth melanin stuff make skin color fair darker also help determin whether person burn tan sun dark light color someon hair depend much melanin hair contain get old pigment cell hair follicl gradual die few pigment cell hair follicl strand hair longer contain much melanin becom transpar color - like gray silver white - grow peopl continu get old few pigment cell around produc melanin eventu hair look complet gray peopl get gray hair age peopl go gray young age - earli high school colleg - wherea other may 30 40 see first gray hair earli get gray hair determin gene mean unit state start gray hair around age parent grandpar first gray hair notic peopl darker hair stand peopl natur light hair like go gray time person notic gray hair may take 10 year person hair turn gray peopl think big shock trauma turn person hair white gray overnight scientist dont realli believ happen case tri freak parent much dont want blame gray hair
+Similarity Score: 0.47634290045716, Document ID: 3335912_2, Document: dont know person grow militari base even like men short hair facial hair appreci well groom goate beard scratchi kiss someon facial hair make face red
+Similarity Score: 0.46278658270288997, Document ID: 3924101_2, Document: hair actual turn gray simpli hair follicl produc color anymor gray hair actual colorless hair like everyth el slow age pigment hair follicl well
+Similarity Score: 0.4506584838551463, Document ID: 4310997_4, Document: lot peopl dont turn gray dad 80 sideburn start turn gray mom 76 gray ever wish hair alreadi that still mani also brother-in-law gray 27 there rhyme reason
+Similarity Score: 0.44585785020659063, Document ID: 890609_10, Document: mayb he nativ american back somewher - lot na men dont facial hair
+Similarity Score: 0.4291530535231589, Document ID: 696864_0, Document: gray hair caus folic inabl add color hair cure bald hair folicl die
+
+Query ID: 103830
+Query: man arab hate west
+Query Count: 25
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 0.75, 0.6, 0.6666666666666666, 0.5714285714285714, 0.5, 0.4444444444444444
+Similarity Score: 0.7560339674930411, Document ID: 103830_4, Document: 1 man arab 2 care stereotyp peopl arab muslim part world hate west
+Similarity Score: 0.6186009226645202, Document ID: 103830_3, Document: arab hate west west fit discript new babylon
+Similarity Score: 0.5332499476955841, Document ID: 3800809_8, Document: arab fact isra arab hate anyth western
+Similarity Score: 0.5001413691120573, Document ID: 1249260_3, Document: american hate saudi arabia countri islam come hate arab around strang thing know arab true fals god besid arab besid
+
+Query ID: 3971195
+Query: get pinbal aggress
+Query Count: 57
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 4153592
+Query: make someon ear stink
+Query Count: 44
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.16666666666666666, 0.2857142857142857, 0.375, 0.3333333333333333
+Similarity Score: 0.6020995347142999, Document ID: 859319_0, Document: liber dont stink question stink
+Similarity Score: 0.5855650176735192, Document ID: 3882995_6, Document: mayb stink
+Similarity Score: 0.5639960055616919, Document ID: 1692553_7, Document: stink high heaven eat everyth stink
+
+Query ID: 2382487
+Query: start period like almost 6 month
+Query Count: 55
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.5, 0.4, 0.3333333333333333, 0.2857142857142857, 0.25, 0.2222222222222222
+Similarity Score: 0.6533040203059309, Document ID: 2787822_2, Document: wait period start day period start good 1-3 month pill
+Similarity Score: 0.5337661060049961, Document ID: 2787822_0, Document: start like sunday follow start period complet protect month basic skip month birth control leav vuner 2 month
+
+Query ID: 2380990
+Query: aliv
+Query Count: 43
+Relevant Documents: 5
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.5, 0.4, 0.5, 0.42857142857142855, 0.5, 0.5555555555555556
+Similarity Score: 1.0, Document ID: 1727403_9, Document: aliv
+Similarity Score: 1.0, Document ID: 3823488_2, Document: aliv
+Similarity Score: 0.7951456643935674, Document ID: 2698803_13, Document: jesu aliv
+Similarity Score: 0.7592141625431666, Document ID: 3858303_10, Document: he aliv
+Similarity Score: 0.747154532217901, Document ID: 1208784_8, Document: chicken isnt aliv nerv make seem aliv
+
+Query ID: 484496
+Query: man float water die
+Query Count: 34
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Similarity Score: 0.5134331497747716, Document ID: 4466367_0, Document: ice float water expans upon freez low densiti liquid water mean float
+
+Query ID: 4003223
+Query: market gimmick attract male
+Query Count: 35
+Relevant Documents: 7
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.75, 0.8, 0.6666666666666666, 0.7142857142857143, 0.75, 0.7777777777777778
+Similarity Score: 0.7915863354503065, Document ID: 3310615_3, Document: market gimmick
+Similarity Score: 0.7599560615300147, Document ID: 1571879_2, Document: think market gimmick
+Similarity Score: 0.610310878950475, Document ID: 3820325_1, Document: gimmick let get think new market idea
+Similarity Score: 0.5588306164937097, Document ID: 957584_13, Document: market gimmick corona im sure
+Similarity Score: 0.5247425895931244, Document ID: 145679_1, Document: male attract male gay
+Similarity Score: 0.4880815200883088, Document ID: 3189655_4, Document: sound like gimmick would avoid
+Similarity Score: 0.48206927811968037, Document ID: 685824_3, Document: male attract men femal attract woman
+
+Query ID: 4185395
+Query: cure std sexual transmit diseas
+Query Count: 30
+Relevant Documents: 9
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0
+Similarity Score: 0.9046567878447722, Document ID: 3411126_0, Document: std - sexual transmit diseas
+Similarity Score: 0.6797857281057691, Document ID: 4418822_0, Document: name impli std transfer sexual intercours std sexual transmit diseas although nearli std transmit way sexual intercours perciev put someon high risk infect
+Similarity Score: 0.638144112591707, Document ID: 2565101_1, Document: depend std std stand sexual transmit diseas gener problem youv contract someth disgust someon el
+Similarity Score: 0.6146361225848331, Document ID: 3381554_3, Document: std sexual transmit diseas answer someth cure go doctor immedi get treatment next find support group final social respons dont spread std other full disclosur
+Similarity Score: 0.5906935171801915, Document ID: 623403_3, Document: std sexual transmit diseas get sex mani diseas categori good visit doctor advis delay treatment
+Similarity Score: 0.5494361051329814, Document ID: 848055_3, Document: u std sexual transmit diseas like gonnorrhea that common men wear condom
+Similarity Score: 0.531957156781432, Document ID: 4293439_0, Document: omg std phone lmao get sexual transmit diseas phone thank laugh
+Similarity Score: 0.5250202532188825, Document ID: 848055_15, Document: think kind sexual transmit diseas ya might want check
+Similarity Score: 0.511274757159684, Document ID: 848055_4, Document: std
+
+Query ID: 1292734
+Query: color like
+Query Count: 58
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 3389038
+Query: media unit state europ alway attack arab islam without find truth
+Query Count: 34
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.5, 0.4, 0.3333333333333333, 0.2857142857142857, 0.25, 0.2222222222222222
+Similarity Score: 0.4312460462135915, Document ID: 2427314_7, Document: islam truth
+Similarity Score: 0.42765585162319897, Document ID: 3132283_0, Document: arab would europ well
+
+Query ID: 474417
+Query: prefix cycl mean greek mytholog
+Query Count: 32
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 0.75, 0.6, 0.6666666666666666, 0.5714285714285714, 0.5, 0.4444444444444444
+Similarity Score: 0.47430229061613643, Document ID: 197598_8, Document: homo mean homosexu homogen etc prefix also mean man homosapien ok im edit see there gon na problem lol homo prefix use commonli biolog latin prefix man greek prefix - sinc question biolog categori take bio class run often greek sen first answer word homosexu becom quit fixat site late greek definit use homosexu translat sex hope clarifi
+Similarity Score: 0.4676109084292835, Document ID: 197598_5, Document: homo prefix mean
+Similarity Score: 0.46744402724545875, Document ID: 2333098_2, Document: one eye monster greek mytholog
+Similarity Score: 0.42027530863449347, Document ID: 1567443_6, Document: search ever mytholog greek nors
+
+Query ID: 3278654
+Query: kamikaz pilot wear helmet
+Query Count: 33
+Relevant Documents: 8
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 0.8, 0.8333333333333334, 0.8571428571428571, 0.875, 0.7777777777777778
+Similarity Score: 0.9767886939624162, Document ID: 3546843_1, Document: well kamikaz pilot wear helmet
+Similarity Score: 0.9381224177653107, Document ID: 1155514_6, Document: mayb question helmet wear kamikaz pilot
+Similarity Score: 0.6774120355214943, Document ID: 202888_2, Document: hell first kamikaz helmet care
+Similarity Score: 0.6294153157908774, Document ID: 1908663_3, Document: second world war use wear pilot leather helmet pilot tradit wear
+Similarity Score: 0.5671721664925427, Document ID: 3924818_2, Document: kamikaz pilot wear hellmet ya know lol
+Similarity Score: 0.5546223659547503, Document ID: 1993777_10, Document: kamikaz member japanes air forc get pay check suicid bomber could anyon kamikaz pilot wore uniform suicid bomber could anyon kamikaz go militari target suicid bomber go anyon thing kamikaz pilot get shot saki clean head band kamikaz pilot go air craft carri part dont think middl eastern peopl know swim
+Similarity Score: 0.5175635104825521, Document ID: 202888_5, Document: mean kamikaz helmet - well mayb keep hair get messi hahaha
+Similarity Score: 0.49912247780706764, Document ID: 1993777_1, Document: kamikaz pilot dont end 77 virgin wait side
+
+Query ID: 4365565
+Query: water pressur chang
+Query Count: 31
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.6666666666666666, 0.75, 0.6, 0.5, 0.42857142857142855, 0.375, 0.3333333333333333
+Similarity Score: 0.6773357804863015, Document ID: 3573634_2, Document: pressur
+Similarity Score: 0.6445414082777293, Document ID: 3075388_3, Document: air pressur airplan pressur fli pressur chang airplan chang altitud that ear pop pressur chang chang pressur effect squeez ink chamber forc ink
+Similarity Score: 0.6326222681496466, Document ID: 2870192_12, Document: chang air pressur mayb
+
+Query ID: 354733
+Query: name famou photograph work stand
+Query Count: 33
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Similarity Score: 0.41019085309497316, Document ID: 3194482_2, Document: put name browser famou
+
+Query ID: 224109
+Query: citriscid
+Query Count: 4
+Relevant Documents: 0
+Total Returned Documents: 0
+Precision List: 
+
+
+Query ID: 4126337
+Query: friend buy
+Query Count: 43
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.5, 0.4, 0.3333333333333333, 0.2857142857142857, 0.25, 0.2222222222222222
+Similarity Score: 1.0, Document ID: 295179_1, Document: u buy friend
+Similarity Score: 0.731900706242188, Document ID: 3910563_1, Document: need friend buy cat
+
+Query ID: 1957887
+Query: hunt punch peopl keep spam
+Query Count: 36
+Relevant Documents: 5
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.5, 0.4, 0.5, 0.42857142857142855, 0.5, 0.4444444444444444
+Similarity Score: 0.5870639120355305, Document ID: 902660_1, Document: spam spam
+Similarity Score: 0.5296139661062869, Document ID: 2434074_1, Document: spam spam spam spam -- - idiot keep post lame stori differ name stop wast time tri help folk need get fiction award write report spam abus instead
+Similarity Score: 0.45668281850437625, Document ID: 4298183_4, Document: word wish spam peopl spam target spam suggest find anoth way advertis directori exist list address directori would alreadi spam death sorri pal come late parti
+Similarity Score: 0.44465753525333046, Document ID: 1420339_34, Document: dont punch first
+Similarity Score: 0.4289633317493082, Document ID: 1756124_4, Document: someon punch arm id probabl punch back
+
+Query ID: 78762
+Query: pterofobia
+Query Count: 3
+Relevant Documents: 0
+Total Returned Documents: 0
+Precision List: 
+
+
+Query ID: 159716
+Query: find inmat southwest detent center 30755 auld rd murrieta 92563
+Query Count: 34
+Relevant Documents: 5
+Total Returned Documents: 10
+Precision List: 0.0, 0.5, 0.3333333333333333, 0.5, 0.4, 0.3333333333333333, 0.42857142857142855, 0.5, 0.4444444444444444
+Similarity Score: 0.33895874313152613, Document ID: 2636621_6, Document: detent stay school
+Similarity Score: 0.31669054931447355, Document ID: 686390_11, Document: sorri never get detent life
+Similarity Score: 0.2860832323813646, Document ID: 3286112_2, Document: live north southwest center germani never meet anyon name
+Similarity Score: 0.27951511904293264, Document ID: 1504554_1, Document: locat inmat within california depart correct plea call 916 445-6713 avail 24 hour day must either inmat cdc number inmat full name date birth receiv inform inmat locatorid warrant provid inmat locat mail address relev phone number inmat locatorid warrant provid futur releas date inform plea note new transfer inmat take seven busi day updat locat inform
+Similarity Score: 0.2770418882136374, Document ID: 3464927_0, Document: feder inmat go bureau prison use inmat locat see recent inform includ releas date local state inmat would either need call facil find facil websit internet
+
+Query ID: 481173
+Query: live miseri
+Query Count: 38
+Relevant Documents: 9
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 0.75, 0.8, 0.8333333333333334, 0.8571428571428571, 0.875, 0.8888888888888888
+Similarity Score: 0.6936174691646074, Document ID: 550346_11, Document: miseri love compani
+Similarity Score: 0.6936174691646074, Document ID: 3750367_9, Document: miseri love compani
+Similarity Score: 0.6936174691646074, Document ID: 3973058_1, Document: miseri love compani
+Similarity Score: 0.6120862332857344, Document ID: 2753263_2, Document: like evil good one exist without miseri almost assuredli good counterpart would exist without miseri mayb miseri exist allow
+Similarity Score: 0.5551674406069359, Document ID: 1845659_0, Document: hand miseri miser - miseri mani - plural genit manu mean hand
+Similarity Score: 0.537287702848368, Document ID: 1444535_8, Document: watch movi miseri ladi someth
+Similarity Score: 0.5282433570082137, Document ID: 3037481_8, Document: miser sometim miseri come person experi neg affect emot state inflict other miseri may come imbal creat drug alcohol certain chemic imbal creat specif brain disord miseri come rotten diet consist junk food vitamin miner enzym human bodi need feel good lack fresh water caus miseri state dehydr even realiz mani reason feel miser figur research chang lifestyl habit may peopl expos regularli bring person figur dont give may take time dedic find solut rememb life isnt alway fill bliss miseri natur part live howev your miser often often consid healthi find pain seek solut
+Similarity Score: 0.5052494305178291, Document ID: 481173_9, Document: experi teach miseri happi dont last rem sing hold miseri pas happi follow pas hang ride
+Similarity Score: 0.49709218234962543, Document ID: 3795317_2, Document: socialist believ miseri spread equal
+
+Query ID: 2814722
+Query: new jersey smoke ban consid unconstitut
+Query Count: 39
+Relevant Documents: 6
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.75, 0.6, 0.6666666666666666, 0.7142857142857143, 0.75, 0.6666666666666666
+Similarity Score: 0.5449213151374477, Document ID: 3177863_1, Document: tri new jersey
+Similarity Score: 0.5348314702037008, Document ID: 2814722_11, Document: unconstitut
+Similarity Score: 0.42538038657593613, Document ID: 1599184_2, Document: cigarett smoke ban
+Similarity Score: 0.3760989064246591, Document ID: 1504308_11, Document: well ban sit next smoke person hard especi hate smoke want smoke home
+Similarity Score: 0.36127744318243854, Document ID: 1584209_0, Document: new jersey part origin 13 coloni tell england shove 1776 result revolutionari war begin unit state stori new jersey link
+Similarity Score: 0.3538253431161996, Document ID: 1584209_1, Document: new jersey ratifi constitut unit state
+
+Query ID: 3040435
+Query: usa snow hurrican flood earthquak politician brazil politician
+Query Count: 27
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.16666666666666666, 0.14285714285714285, 0.125, 0.2222222222222222
+Similarity Score: 0.44613358703147155, Document ID: 3040435_2, Document: caus usa big countri carri brazil carri politician bye
+Similarity Score: 0.4175225430135634, Document ID: 3040435_7, Document: brazil isnt usa
+
+Query ID: 953489
+Query: dumb time though highli undereduc
+Query Count: 34
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 0.0, 0.5, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.2857142857142857, 0.25, 0.2222222222222222
+Similarity Score: 0.41212905448459947, Document ID: 2561964_13, Document: dumb dumb stuff time
+Similarity Score: 0.40165715475238245, Document ID: 2561964_18, Document: dumb u
+
+Query ID: 2309774
+Query: keep see peopl miss soldier iraq
+Query Count: 44
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Similarity Score: 0.438957348932068, Document ID: 1598547_6, Document: war free iraq terrorist soldier come home soon iraq democrat govern stabl
+
+Query ID: 1152934
+Query: dont fat peopl pay air travel
+Query Count: 33
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.14285714285714285, 0.125, 0.1111111111111111
+Similarity Score: 0.6388187278618187, Document ID: 1152934_7, Document: fat peopl pay extra air travel pay extra seat take
+
+Query ID: 387874
+Query: asparugu make pee stink
+Query Count: 20
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.5, 0.4, 0.3333333333333333, 0.2857142857142857, 0.25, 0.2222222222222222
+Similarity Score: 0.8870853927012556, Document ID: 395483_6, Document: asparugu stink
+Similarity Score: 0.5534851224684044, Document ID: 387874_3, Document: deal way bodi process chemic asparugu
+
+Query ID: 2291272
+Query: catholic christian
+Query Count: 48
+Relevant Documents: 9
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.8571428571428571, 0.875, 0.8888888888888888
+Similarity Score: 0.660083333034404, Document ID: 1960194_8, Document: go point hypocrisi catholic pack lunch catholic isnt christian believ httphomelessheartcomtestimonyhtm
+Similarity Score: 0.6535771633128984, Document ID: 2709267_6, Document: consid origin denomin christian 1054 correct im wrong year christian split catholic orthodoxi catholic come mani form far common roman catholic head pope protest religion split catholic marten luther john calvin even henri viii lead new branch christian dont know specif look - plea elabor
+Similarity Score: 0.5862507283686499, Document ID: 2442758_0, Document: catholic branch christian say abl figur answer second question
+Similarity Score: 0.5751520767158265, Document ID: 271354_6, Document: christian umbrella term catholic protest faith cours becom difficult faith bear christian call christian true christian
+Similarity Score: 0.5675554467772701, Document ID: 2288606_8, Document: theori could say catholic come christian still christian around peopl believ one thing other believ someth el that
+Similarity Score: 0.5637227712870063, Document ID: 205928_13, Document: two word opu dei say catholic nasti histori catholic corrupt rest christian make much easy watch protest shoot foot bash cathol anoth sect christian
+Similarity Score: 0.5493355956824624, Document ID: 2291272_3, Document: well depend mean cathol christian that one mean christian cathol catholic isnt christian semi-literaci root protest church protest arent non-catol christian think eastern orthodox think divis eastern western roman empir catholic christian long haul
+Similarity Score: 0.5470007550248149, Document ID: 4011933_2, Document: catholic faith base tradit christian base word god
+Similarity Score: 0.5449497150118717, Document ID: 1012033_3, Document: christian doesnt monk tri catholic believ httphomelessheartcomtestimonyhtm
+
+Query ID: 3411123
+Query: doesnt america regard foreign credenti
+Query Count: 38
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.2857142857142857, 0.25, 0.2222222222222222
+Similarity Score: 0.5411621936222454, Document ID: 3411123_0, Document: lot american familiar foreign credenti therefor dismiss doesnt mean credenti worth less keep tri someon recogn hard work put high educ
+Similarity Score: 0.37590155563661953, Document ID: 376281_7, Document: go figur couldnt win credenti alon
+
+Query ID: 4165406
+Query: founder daewoo get 10-year jail sentenc
+Query Count: 30
+Relevant Documents: 5
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.6666666666666666, 0.75, 0.6, 0.5, 0.5714285714285714, 0.5, 0.4444444444444444
+Similarity Score: 0.4725733743083876, Document ID: 4315177_11, Document: think need jail sentenc
+Similarity Score: 0.41420949848937094, Document ID: 3851720_2, Document: chevrolet buy daewoo
+Similarity Score: 0.4055171015645795, Document ID: 4377900_17, Document: get jail
+Similarity Score: 0.3543811947178848, Document ID: 3851720_0, Document: take aveo exampl similar rebadg daewoo kalo sell oversea daewoo car chevrolet badg answer question
+Similarity Score: 0.3364053357885885, Document ID: 4344565_4, Document: januari 2005 daewoo brand replac across whole europ gener motor global valu brand chevrolet one big name motor chevrolet build sell high qualiti charismat car offer great valu money around world sinc 1911 although name start usa chevrolet sell 90 countri chang mean mean daewoo matiz daewoo kalo daewoo lacetti daewoo tacuma daewoo lano daewoo nubira daewoo leganza howev good news endur qualiti valu reflect current rang ad attract great name - chevrolet there all-new chevrolet matiz combin cheeki look about-town practic there slightli large less stylish chevrolet kalo family-s chevrolet lacetti three bodi style rang realli practic mpv chevrolet tacuma chevrolet kalo
+
+Query ID: 2418598
+Query: wisdom vari person person
+Query Count: 37
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.5, 0.4, 0.3333333333333333, 0.2857142857142857, 0.25, 0.2222222222222222
+Similarity Score: 0.8228273556442078, Document ID: 4010133_1, Document: vari person person
+Similarity Score: 0.7278664067665555, Document ID: 884445_5, Document: age vari person person
+
+Query ID: 3496147
+Query: punish christin
+Query Count: 48
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Similarity Score: 0.4217300018869196, Document ID: 272965_13, Document: punish unit state
+
+Query ID: 2452795
+Query: heat water within 150 gal tank that open atmospher februari
+Query Count: 32
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.3333333333333333, 0.25, 0.2, 0.3333333333333333, 0.42857142857142855, 0.375, 0.3333333333333333
+Similarity Score: 0.35439310063761326, Document ID: 3986699_4, Document: atmospher hold heat less atmospher less heat
+Similarity Score: 0.3063495903587173, Document ID: 2885982_2, Document: let tank run week isnt realli anything-y need fish wast tank grown bacteria bed need thing pet store grow bacteria howev dont care disagrees-i custom store never fail -- -when want buy fish ask dealer give coupl bag water tank siphon dirt gravel -- alreadi grown bacteria give head start provid tank isnt infect time set fresh water salt water tank 10 gal 125 gal seldom lose fish like say peopl wont agre never fail alway save tank ever decid strip whihl remov 34 water fill vacuum gravel
+Similarity Score: 0.300962417718872, Document ID: 3614733_1, Document: assum deal hot water tank rather instant-on hot water heater assum unusu pressur build-up hot water pipe tank pressur howev water heat hot water expand creat increas pressur within tank water flow tank pressur releas therebi presur tank goe hot water flow tank cold water flow replac cooler water add reduc pressur build-up
+Similarity Score: 0.2918664564803625, Document ID: 3986699_1, Document: less atmospher retain heat
+
+Query ID: 225575
+Query: wet behind ear mean
+Query Count: 31
+Relevant Documents: 5
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 0.75, 0.6, 0.5, 0.42857142857142855, 0.5, 0.5555555555555556
+Similarity Score: 0.7070690287717707, Document ID: 90661_6, Document: wet behind ear wet leg ewwww
+Similarity Score: 0.6420353110641506, Document ID: 4225209_6, Document: wet finger ear
+Similarity Score: 0.6244426652907695, Document ID: 4001349_1, Document: im sure ear would wet
+Similarity Score: 0.5633674208310264, Document ID: 225575_22, Document: wet behind ear mean naiv origin allus inexperi babi recent born still wet
+Similarity Score: 0.5616730143119847, Document ID: 225575_3, Document: impli somebodi juvenil like still wet behind ear
+
+Query ID: 2838988
+Query: get cork wine bottl without corkscrew
+Query Count: 24
+Relevant Documents: 8
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.6666666666666666, 0.75, 0.8, 0.8333333333333334, 0.8571428571428571, 0.75, 0.7777777777777778
+Similarity Score: 0.6098922401975531, Document ID: 860258_0, Document: twist corkscrew cork pull handl side
+Similarity Score: 0.5475171162156819, Document ID: 2567318_4, Document: discolor growth along top cork mean isnt possibl cork hasnt caus problem wine isnt problem use smell end cork drink wine sometim give advanc notic someth wildli wine includ wine may cork consid unusu cork period fail job
+Similarity Score: 0.5334843310992101, Document ID: 1357216_6, Document: total bust man cork must here plactic cork easi fixreal cork tendenc break apart use screw pull back great easi howev wont alway solut push cork way want wine back bottl without cork float around tricki drain wine po rare skill actual pull cork bottl use cloth napkin noon beliv possibl ive alot free drink show one
+Similarity Score: 0.5328877030797545, Document ID: 2293005_1, Document: bake soda vinig wine bottl cork cork goe 50 100 foot watch see cork land
+Similarity Score: 0.5285047550821403, Document ID: 2943171_1, Document: desper break top pour two layer t-shirt avoid swallow glass sliver red stain never come tell peopl blood wire coat hanger pair plier make cork puller use mine cork break deep corkscrew reach cut straight length wire bend one end right angl want j two right angl instead curv long bodi bent part half diamet cork slide bent part cork bottl neck turn end center cork wrap end wire around plier give handl pull make wooden handl mine use twice year keep kitchen drawer corkscrew get swiss armi knife corkscrew 6 handi blade less 20 worth spring
+Similarity Score: 0.5203788733327056, Document ID: 1357216_4, Document: well push cork way drink wine buy anoth bottl replac
+Similarity Score: 0.5063092584743757, Document ID: 2567318_0, Document: wine go bad tell smell cork
+Similarity Score: 0.4702568255589165, Document ID: 2567318_1, Document: smell cork smell funni corki cork probabl go bad cork go bad like wine
+
+Query ID: 456214
+Query: import absolut zero temperatur
+Query Count: 25
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.5, 0.4, 0.3333333333333333, 0.42857142857142855, 0.5, 0.4444444444444444
+Similarity Score: 0.6013796592419912, Document ID: 1742397_0, Document: definit absolut zero noth move temperatur measur averag kinet energi particl system absolut zero 0 k partcil stop complet particpl stop way go move updownsid side sinc would temperatur ad thu absolut zero
+Similarity Score: 0.5960736340352124, Document ID: 837150_0, Document: 0c simpli freez point water artifici zero point pick conveni human earth absolut zero point call appropri absolut zero -27315 c 27315 degre temperatur water freez absolut zero specif thermodynam properti - temperatur atom minimum molecular vibrat defin heat complic describ - suggest check refer anyway look temperatur absolut zero temperatur posit also everi element compound thermodynam characterist includ melt point boil point freez point fluorin boil point 8515 degre absolut zero water boil point 37315 degre absolut zero iron exampl boil point 3134 degre absolut zero simpli mean earth florin natur state alway ga
+Similarity Score: 0.5212896543738962, Document ID: 422118_4, Document: achiev absolut zero remov energi
+Similarity Score: 0.5207451136381027, Document ID: 3381669_7, Document: temperatur low temperatur head toward absolut zero third law thermodynam state temperatur approach toward absolut zero system head toward entropi sinc solid less entropi water liquid water head solid low temperatur
+
+Query ID: 761742
+Query: becom playa
+Query Count: 15
+Relevant Documents: 6
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 0.75, 0.8, 0.6666666666666666, 0.7142857142857143, 0.75, 0.6666666666666666
+Similarity Score: 0.7203924283089221, Document ID: 4115806_9, Document: come time playa recogn
+Similarity Score: 0.624254636977088, Document ID: 1208376_9, Document: bill clinton give reput cough cough playa playa black prez ever
+Similarity Score: 0.5212422172701091, Document ID: 1013722_4, Document: life co everi second worth live peac love happi playa
+Similarity Score: 0.38203454829498695, Document ID: 3750543_0, Document: fck playa hater rap best bone thugz 4 eva
+Similarity Score: 0.291840419727565, Document ID: 2494378_4, Document: culebra puerto ricoit best beach ever - playa flamenco beauti local friendli commeric like rustic love
+Similarity Score: 0.2889410266831684, Document ID: 4265116_0, Document: window medium player use ur song u download save u plug ur mp3 playa click synchronis find ur file click start sync
+
+Query ID: 3825386
+Query: develop leanbodi muscl
+Query Count: 37
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.1111111111111111
+Similarity Score: 0.5116622886927769, Document ID: 1669925_0, Document: skelet muscl voluntari muscl attach bone like bicep etc smooth muscl involuntari muscl heart stomach
+
+Query ID: 2443586
+Query: bro
+Query Count: 35
+Relevant Documents: 8
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 0.8, 0.8333333333333334, 0.8571428571428571, 0.875, 0.8888888888888888
+Similarity Score: 1.0, Document ID: 788265_8, Document: bro
+Similarity Score: 0.9386077902272627, Document ID: 2905727_0, Document: go bro
+Similarity Score: 0.8970961532922986, Document ID: 1323025_0, Document: bro keep
+Similarity Score: 0.8007806580092807, Document ID: 2788204_6, Document: mail bro
+Similarity Score: 0.7528807735101429, Document ID: 2443586_8, Document: brother bro short say like hey bro cuz r close friend
+Similarity Score: 0.7145899245541124, Document ID: 3816155_11, Document: bra bro
+Similarity Score: 0.6533061819755542, Document ID: 3467029_14, Document: mayb bro fo
+Similarity Score: 0.6164236455295118, Document ID: 2443586_18, Document: bro sum follow basic retard offspr seriou note bro slang friend associ someon hang
+
+Query ID: 172731
+Query: saturn sun
+Query Count: 42
+Relevant Documents: 7
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 0.8, 0.8333333333333334, 0.8571428571428571, 0.75, 0.7777777777777778
+Similarity Score: 0.84930903695629, Document ID: 172731_6, Document: distanc sun saturn
+Similarity Score: 0.7252438747207737, Document ID: 1401312_0, Document: saturn sun make mostli hydrogen saturn sun radiat energi space receiv god spell b-i-g b-a-n-g pbraxnetscapecom
+Similarity Score: 0.6797792801253045, Document ID: 2251030_5, Document: would want live saturn
+Similarity Score: 0.6057218711599033, Document ID: 172731_10, Document: saturn sixth planet sun rel larg planet solar system diamet 120536 km mass 569e26 kg saturn rotat period 043 day eccentr 0056 take saturn 2946 year orbit sun maintain averag distanc sun 1429400000 km atmospher saturn compos 93 hydrogen 5 helium trace amount element
+Similarity Score: 0.5413864646068401, Document ID: 1429684_3, Document: sun
+Similarity Score: 0.5413864646068401, Document ID: 1429684_2, Document: sun
+Similarity Score: 0.5413864646068401, Document ID: 1429684_6, Document: sun
+
+Query ID: 2783398
+Query: nucleu
+Query Count: 38
+Relevant Documents: 8
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.8571428571428571, 0.875, 0.7777777777777778
+Similarity Score: 1.0, Document ID: 2402461_0, Document: nucleu
+Similarity Score: 0.7433970898355804, Document ID: 2783398_2, Document: nucleu usual refer center someth mean scienc atom nucleu collect proton neutron center atom carri bulk atom mass posit charg cell nucleu membrane-bound subcellular organel find eukaryot visibl via microscopi contain primarili cell chromosom nucleu neuroanatomi central nervou system structur compos mainli gray matter mediat electr signal within particular subsystem comet nucleu solid core comet galaxi nucleu central region galaxi ice nucleu center ice crystal cloud condens nuclei basi develop cloud droplet linguist syllabl nucleu central part syllabl sentenc nucleu syllabl receiv great stress word comput scienc nucleu cm open-sourc weblog system nucleu rto brand oper system music nucleu band british jazz-rock band lead ian carr
+Similarity Score: 0.7196566594431898, Document ID: 4268038_2, Document: dna import genet info store nucleu becuas nucleu control cell dna control nucleu
+Similarity Score: 0.642682509267547, Document ID: 2402461_2, Document: nucleu cytoplasm
+Similarity Score: 0.6405779586398767, Document ID: 108028_0, Document: doesnt actual orbit nucleu appear randomli probabl everywher certain energi level nucleu
+Similarity Score: 0.6325907515356982, Document ID: 2783398_11, Document: nucleu usual refer center someth mean scienc atom nucleu collect proton neutron center atom carri bulk atom mass posit charg cell nucleu membrane-bound subcellular organel find eukaryot visibl via microscopi contain primarili cell chromosom nucleu neuroanatomi central nervou system structur compos mainli gray matter mediat electr signal within particular subsystem comet nucleu solid core comet galaxi nucleu central region galaxi ice nucleu center ice crystal cloud condens nuclei basi develop cloud droplet
+Similarity Score: 0.6005463809073512, Document ID: 2308189_1, Document: nucleu regul cell activ
+Similarity Score: 0.5837920160971041, Document ID: 2783398_1, Document: nucleu serv cell command center send direct cell grow matur divid die also hous dna deoxyribonucl acid cell hereditari materi nucleu surround membran call nuclear envelop protect dna separ nucleu rest cell nucleu contain cell genet materi nucleu dark structur locat middl cell control cell activ act like cell brain insid nucleu dna contain genet inform cytoplasm jelly-lik substanc insid cell cell activ take place make water chemic cell part except nucleu locat cytoplasm kind nucleu bose-einstein nucleu 2 kind 11 fact - nucleu even a-numb ie integr spin cf fermi-dirac nuclei bose-einstein nucleus obey exclus principl ground state zero angular momentum deuteron 6 fact - nucleu deuterium isotop hydrogen consist one proton one neutron bound togeth nucleu deuterium atom md 201355 amu even-odd nucleu 3 fact - nucleu contain even number proton odd number neutron fermi-dirac nucleus 2 fact - nuclei odd a-numb ie nucleus integr spin cf bose-einstein nuclei fermi-dirac nucleus therefor obey exclus principl qv isom 2 fact - nucleu z number differ energi state isoton 2 fact - nucleu number neutron differ z number isotop 3 fact - atom nucleu number proton commonli find atom nucleu differ number neutron exampl hydrogen nucleu singl proton deuterium one proton one neutron would call isotop hydrogen see neutron proton two nuclei number proton differ number neutron say repres element differ isotop exampl helium-3 two proton one neutron nucleu helium-4 two proton two neutron two differ isotop helium nuclid 2 fact - speci atom nucleu analog word isotop speci atom word also use distinguish atom nucleus differ energi state proton 13 fact p - subatom particl posit electr charg everi atom least one proton nucleu number proton determin element exampl atom one proton hydrogen atom two proton helium one constitu atom nucleu spin-12 particl carri posit electr charg proton light baryon result particl baryon eventu decay believ absolut stabl certain theori gut predict decay slowli baryon make two quark quark posse posit electromagnet charg find atom nuclei singl proton hydrogen nucleu massiv particl posit electr charg find nuclei atom compos two quark one quark proton mass 9383 mev slightli less neutron posit charg elementari particl nucleu hydrogen atom mass proton 100728 amu 16726 10-24 g 183612 triton 6 fact - nucleu tritium atom neucleu find live cell
+
+Query ID: 402514
+Query: bake potato never tast near good get nice restaur
+Query Count: 29
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 0.75, 0.8, 0.6666666666666666, 0.5714285714285714, 0.5, 0.4444444444444444
+Similarity Score: 0.5149767607819113, Document ID: 402514_4, Document: hard get food good food restaur cook restaur train profession hope note bake potato best
+Similarity Score: 0.4881206050607403, Document ID: 402514_1, Document: lot restaur season outsid potato bake make quit differ tast also make sure use full fat sour cream low fat oddli think restaur actual use margarin potato instead butter tast salti butter tri ad littl salt potato
+Similarity Score: 0.4854763446764586, Document ID: 786830_0, Document: yum rememb tast like bake potato
+Similarity Score: 0.4301795877084642, Document ID: 402514_2, Document: due cook time lot restaur bake potato twice wrap foil cours sea salt first bake allow cool unwrap bake
+
+Query ID: 4278201
+Query: ultraviolet light effect seed termin plant growth
+Query Count: 21
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 0.0, 0.5, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.14285714285714285, 0.125, 0.1111111111111111
+Similarity Score: 0.3946280057488244, Document ID: 666247_0, Document: process grow seed plant
+
+Query ID: 2539741
+Query: caus car white smoke come suffer make kick knock sound
+Query Count: 33
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 3714728
+Query: world shallow
+Query Count: 28
+Relevant Documents: 6
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.8571428571428571, 0.75, 0.6666666666666666
+Similarity Score: 0.817372571847271, Document ID: 3146993_2, Document: shallow like
+Similarity Score: 0.7328525291246892, Document ID: 2313490_6, Document: mani peopl shallow
+Similarity Score: 0.648651817329575, Document ID: 350396_2, Document: ye look peopl shallow
+Similarity Score: 0.6218326715751301, Document ID: 350396_12, Document: peopl shallow see deep
+Similarity Score: 0.5251422680852538, Document ID: 3130567_2, Document: peopl shallow cant see past surfac
+Similarity Score: 0.4977186301381727, Document ID: 1703687_1, Document: water shallow wave small differ color shade reason shallow water allow see bottom reflect light bottom
+
+Query ID: 3778229
+Query: witch test salem witch trial
+Query Count: 23
+Relevant Documents: 5
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.3333333333333333, 0.5, 0.4, 0.5, 0.5714285714285714, 0.5, 0.5555555555555556
+Similarity Score: 0.714901299248981, Document ID: 44663_11, Document: witch give trial punish alleg coven witch witch way know like sunni sheit muslem witch hama witch jewish witch vice versa prefer version witch trial
+Similarity Score: 0.7078674966505107, Document ID: 2092844_0, Document: salem witch trial next time feel free homework -p
+Similarity Score: 0.6533005578548337, Document ID: 3341098_4, Document: event lead witch trial actual occur town danver parish salem town know salem villag launch hysteria bizarr seemingli inexplic behavior two young girl daughter betti niec abigail william salem villag minist reverend samuel parri witch hous februari 1692 three accus woman examin magistr jonathan corwin john hathorn corwin home know witch hous still stand corner north essex street salem provid guid tour tale first witchcraft trial john hathorn ancestor author nathaniel hawthorn buri charter street old buri point time hysteria spend 24 peopl die nineteen hang gallow hill salem town die prison gile corey first plead guilti charg witchcraft subsequ refus stand trial refus meant could convict legal howev examin choose subject interrog place stone weight bodi surviv brutal tortur two day die remark 552 origin document pertain witchcraft trial preserv still store peabodi essex museum eeri memorabilia associ trial witch pin use examin witch small bottl suppos contain finger bone victim georg jacob find well short paragraph intend introduct complex subject much write provok commemor salem witch trial tercentenari memori dedic 1992 find adjac charter street old buri point -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- witch today cours salem becom know witch citi salem witch museum witch dungeon museum witch histori museum take back histori 1692 yet present-day popular witchcraft hysteria doesnt reveal anyth larg number modern witch live salem today salem witch villag peopl learn fact witchcraft highli recommend mani member salem craft commun goal promot religi toler particip posit societi encourag growth accept peopl witchcraft trial salem commentari dougla linder christian martyr truth could die thee own hideou lie world redeem superstit sway breath freer thi sake today -- word write john greenleaf whittier inscrib monument mark grave rebecca nurs one condemn witch salem june septemb 1692 nineteen men woman convict witchcraft cart gallow hill barren slope near salem villag hang anoth man eighti year press death heavi stone refus submit trial witchcraft charg hundr other face accus witchcraft dozen languish jail month without trial almost soon begin hysteria swept puritan massachusett end travesti justic occur occur salem noth tragedi inevit unfortun combin ongo frontier war econom condit congreg strife teenag boredom person jealousi account spiral accus trial execut occur spring summer 1692 1688 john putnam one influenti elder
+Similarity Score: 0.6493207063625961, Document ID: 3341098_1, Document: bad witch honay stay away pact devil evil one good one help salem witch natur witch get power devil goe law witch univers
+Similarity Score: 0.6168555229603949, Document ID: 3341098_5, Document: salem witch like fli broom
+
+Query ID: 3640705
+Query: punish child molestor
+Query Count: 38
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.5, 0.4, 0.5, 0.42857142857142855, 0.375, 0.3333333333333333
+Similarity Score: 0.6750886384824059, Document ID: 3972846_4, Document: defend child molestor hang
+Similarity Score: 0.6267567071494876, Document ID: 3972846_7, Document: true christian defend child molestor kind
+Similarity Score: 0.43672462417397445, Document ID: 3640705_4, Document: jail jailer sometim kill tortur molest child molestor ill head
+
+Query ID: 1077370
+Query: human finger print
+Query Count: 26
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.75, 0.6, 0.5, 0.5714285714285714, 0.5, 0.4444444444444444
+Similarity Score: 0.6627694232002107, Document ID: 1077370_1, Document: dont ape finger print
+Similarity Score: 0.6570598525839028, Document ID: 1077370_3, Document: human call finger printsa speci may call paw printsor lot print tire print foot print snake print etc think reason print identif whatev sourc doesnt hurt think print shield think would smooth finger fare real world
+Similarity Score: 0.6428312424475657, Document ID: 1077370_2, Document: primat finger print
+Similarity Score: 0.5549516537795127, Document ID: 2561934_2, Document: oil finger wash away finger prune oil oil leav finger print
+
+Query ID: 1373069
+Query: freedom speech - dont peopl understand use
+Query Count: 32
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.25, 0.2, 0.3333333333333333, 0.2857142857142857, 0.25, 0.2222222222222222
+Similarity Score: 0.7191484386660811, Document ID: 1689674_8, Document: right freedom speech
+Similarity Score: 0.6673239592465872, Document ID: 2540881_9, Document: freedom - speech listen
+Similarity Score: 0.6135626943026924, Document ID: 1660104_0, Document: peopl get wrong new theori think therefor im offend peopl forget freedom speech mean freedom speech free say want hear
+
+Query ID: 1063812
+Query: grow taller
+Query Count: 45
+Relevant Documents: 6
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.3333333333333333, 0.25, 0.4, 0.5, 0.42857142857142855, 0.5, 0.5555555555555556
+Similarity Score: 0.7650067011345513, Document ID: 2816478_6, Document: cant make grow taller genet
+Similarity Score: 0.6910475049338102, Document ID: 3448778_9, Document: llama grow taller
+Similarity Score: 0.6279441193821711, Document ID: 3173146_0, Document: cant make grow taller goin grow much suppos determin genet
+Similarity Score: 0.585504417168402, Document ID: 1211953_0, Document: reason taller femal look taller girl wear high heel get height parent
+Similarity Score: 0.5820827895520182, Document ID: 1585785_0, Document: mean taller 17 52 probabl go grow much
+Similarity Score: 0.580474099721576, Document ID: 1491496_1, Document: u r taller ur sleep cuz u sleep ur inch taller
+
+Query ID: 2722241
+Query: anim hide dark place b4 die
+Query Count: 39
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.14285714285714285, 0.125, 0.2222222222222222
+Similarity Score: 0.5698591116329643, Document ID: 659602_13, Document: anim die place
+Similarity Score: 0.3957139916018048, Document ID: 4041496_6, Document: co didnt want accident die b4 suppos
+Similarity Score: 0.38714697304846535, Document ID: 3486936_0, Document: dark hide mine go pillow
+
+Query ID: 746920
+Query: get rid part hand use home method
+Query Count: 39
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.14285714285714285, 0.125, 0.1111111111111111
+Similarity Score: 0.5654875570458396, Document ID: 2627795_2, Document: tri method train get rid
+
+Query ID: 1977054
+Query: consciou food origin
+Query Count: 29
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 1199639
+Query: loseal bodi fat
+Query Count: 39
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 2785579
+Query: could element weather would choos
+Query Count: 39
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.25, 0.2, 0.16666666666666666, 0.14285714285714285, 0.125, 0.1111111111111111
+Similarity Score: 0.5231286053786431, Document ID: 702572_0, Document: element ask element
+
+Query ID: 1964316
+Query: mean weed
+Query Count: 33
+Relevant Documents: 8
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.75, 0.8, 0.8333333333333334, 0.8571428571428571, 0.75, 0.7777777777777778
+Similarity Score: 0.9015210922754878, Document ID: 1218838_13, Document: weed
+Similarity Score: 0.9015210922754878, Document ID: 3059341_5, Document: weed
+Similarity Score: 0.7399981147149025, Document ID: 1674088_11, Document: sell weed
+Similarity Score: 0.7183792417691766, Document ID: 2434719_9, Document: smoke weed
+Similarity Score: 0.7183792417691766, Document ID: 3435824_3, Document: smoke weed
+Similarity Score: 0.6765860328900142, Document ID: 2787567_1, Document: need weed answer dont like way weed rude peopl never take anyth person
+Similarity Score: 0.6513161273317776, Document ID: 1248144_1, Document: keep studi eat fish stop smoke weed that one bad thing weed
+Similarity Score: 0.64688729618628, Document ID: 767911_0, Document: stop smoke weed
+
+Query ID: 3206998
+Query: disneyland make snow
+Query Count: 34
+Relevant Documents: 6
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.75, 0.6, 0.5, 0.42857142857142855, 0.5, 0.5555555555555556
+Similarity Score: 0.727039852440891, Document ID: 1750852_3, Document: get go disneyland
+Similarity Score: 0.6712619616078015, Document ID: 551908_4, Document: visit disneyland
+Similarity Score: 0.5397531420734183, Document ID: 1850008_6, Document: winter snow snow snow
+Similarity Score: 0.471956869450731, Document ID: 1427995_0, Document: take disneylandif like disneyland
+Similarity Score: 0.4704495366527149, Document ID: 181119_319, Document: rage water disneyland first job excit
+Similarity Score: 0.47005210708112605, Document ID: 2429491_9, Document: believ disneyland gear toward 5 yr old
+
+Query ID: 2864267
+Query: exemplifi effect custom servic
+Query Count: 31
+Relevant Documents: 7
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.6666666666666666, 0.75, 0.8, 0.8333333333333334, 0.8571428571428571, 0.75, 0.6666666666666666
+Similarity Score: 0.5057898769585414, Document ID: 2580908_6, Document: great link custom servic manag make great custom servic would focu custom experi corpor best definit custom servic exceed expecti deliv custom servic mean satisfi custom need concern give support servic beyond expect custom advoc respons custom make custom feel special resolv concern go extra mile hope help
+Similarity Score: 0.490952031858228, Document ID: 4104706_3, Document: chang name custom servic custom care dont
+Similarity Score: 0.48900676284057304, Document ID: 2864267_3, Document: effect custom servic meet custom need concern exceed expect custom advoc
+Similarity Score: 0.4888770840598853, Document ID: 2580908_0, Document: qualiy custom servic diffrent improv custom servic ever custom leav feel total satisfi give qualiti custom servic
+Similarity Score: 0.4613947218461816, Document ID: 3493947_0, Document: never hear titl mean custom support custom servic custom care
+Similarity Score: 0.45943595688619565, Document ID: 2526422_6, Document: one time consid epitom custom servic - howev day custom servic place
+Similarity Score: 0.4380367785516014, Document ID: 2779751_0, Document: ideal custom servic whether restaur upscal think okay custom pay less meal get inferior custom servic shouldnt even think servic industri
+
+Query ID: 3382736
+Query: minimalist cubisium
+Query Count: 9
+Relevant Documents: 6
+Total Returned Documents: 8
+Precision List: 1.0, 0.5, 0.6666666666666666, 0.75, 0.8, 0.8333333333333334, 0.8571428571428571, 0.75
+Similarity Score: 0.744267121624028, Document ID: 1612543_6, Document: im minimalist dont want complic thing
+Similarity Score: 0.5265514388091509, Document ID: 3382736_1, Document: think mean minimalist cubism idea mean form modern art
+Similarity Score: 0.46360440759003246, Document ID: 3294146_0, Document: probabl follow actual minimalist trend might reviv old style littl vintag stuff
+Similarity Score: 0.40392825580630465, Document ID: 2391604_8, Document: believ minimalist govern enough govern secur natur right peopl enforc law peopl ie constitut anyth excess govern
+Similarity Score: 0.23809529136337831, Document ID: 1969394_0, Document: addit great portfolia figur galleri special well would fit gener style pretti pointless show abstract minimalist paint galleri special landscap paint vice versa mean good way visit galleri interest mayb chat peopl work first
+Similarity Score: 0.21148204675042162, Document ID: 3382736_2, Document: cubism minimalist artist movement seek express world simpli possibl less basic art would basic shape form depict subject music simpl sound produc usual orchestra without huge fanfar harmoni cubism think pablo picasso paul klee rather curv line mind see look thing peopl imag compos simpl shape like triangl cube
+
+Query ID: 949154
+Query: anybodi tell butler
+Query Count: 28
+Relevant Documents: 5
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.75, 0.6, 0.5, 0.42857142857142855, 0.375, 0.4444444444444444
+Similarity Score: 0.7016251939828224, Document ID: 975675_3, Document: order butler
+Similarity Score: 0.5903621450647107, Document ID: 949154_10, Document: butler senior servant larg household usual butler senior staff member although great hous past household sometim divid depart butler charg dine room includ wine cellar pantri sometim entir parlour floor housekeep charg whole hous appear housekeep occasion portray literatur senior staff member even make recommend hire butler modern hous butler senior worker titl majordomo butler administr staff manag estat manag head household staff sometim give word butler deriv old french bouteilli mean cup bearer bouteil bottl role butler centuri chief steward household attend entrust care serv wine bottl beverag ancient time repres consider portion household asset britain butler origin middl rank member staff grand household 17th 18th centuri butler gradual becam usual senior male member household staff grand household sometim hous steward senior butler 19th centuri butler use alway attir special uniform distinct liveri junior servant today butler like wear busi suit busi casual cloth appear uniform special occas early literari mention butler probabl man whose releas prison predict joseph biblic account joseph interpret dream pharaoh servant london remain one hotel offer privat butler servic lanesborough hotel
+Similarity Score: 0.46558024732231595, Document ID: 949154_6, Document: butler senior servant larg household usual butler senior staff member although great hous past household sometim divid depart butler charg dine room includ wine cellar pantri sometim entir parlour floor housekeep charg whole hous appear housekeep occasion portray literatur senior staff member even make recommend hire butler
+Similarity Score: 0.39657655052273905, Document ID: 949154_16, Document: butler senior servant larg household usual butler senior staff member although great hous past household sometim divid depart butler charg dine room includ wine cellar pantri sometim entir parlour floor housekeep charg whole hous appear case butler may either subordin equal housekeep madra bombay presid titl usual appli head-serv english quasi-english household gener make daili market charg domest store superintend tabl profess one afford larg scope feather nest expens foreign master often follow madra men compar good cast
+Similarity Score: 0.39510906820284797, Document ID: 949154_12, Document: butler maid man like alfr best answer pea
+
+Query ID: 1364894
+Query: need tell custom serviceoper sick order make appoint w doctor
+Query Count: 35
+Relevant Documents: 5
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 0.75, 0.6, 0.5, 0.42857142857142855, 0.5, 0.5555555555555556
+Similarity Score: 0.44634595617632966, Document ID: 2551616_8, Document: make appoint see doctor
+Similarity Score: 0.4179221185451548, Document ID: 3902731_15, Document: make appoint famili doctor
+Similarity Score: 0.40723675592192893, Document ID: 2003161_2, Document: make appoint
+Similarity Score: 0.33949813952046815, Document ID: 1364894_4, Document: tell kind symptom your doctor know littl bit ahead time tell ahead time theyll know good seriou think seriou make your appoint sooner cant tell straight doctor nurs phone make appoint theyr busi schedul appoint
+Similarity Score: 0.33291341513013406, Document ID: 2597218_0, Document: would check doctor could mani differ thing make appoint
+
+Query ID: 2797224
+Query: muslim happiest peopl ever
+Query Count: 38
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 0.6666666666666666, 0.5, 0.4, 0.3333333333333333, 0.2857142857142857, 0.25, 0.2222222222222222
+Similarity Score: 0.576600812104275, Document ID: 1566331_4, Document: whichev one make happiest
+Similarity Score: 0.47202088639482215, Document ID: 2797224_12, Document: im glad happi believ one pentecost happiest peopl earth
+
+Query ID: 765138
+Query: love someon hurt like hell
+Query Count: 36
+Relevant Documents: 5
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 0.8, 0.6666666666666666, 0.5714285714285714, 0.625, 0.5555555555555556
+Similarity Score: 0.8053537954797576, Document ID: 836460_14, Document: hurt like hell
+Similarity Score: 0.7531557173055164, Document ID: 2904657_1, Document: know hurt like hell
+Similarity Score: 0.6463446806147084, Document ID: 702959_14, Document: cuz hurt like hell
+Similarity Score: 0.5934813831084446, Document ID: 971984_3, Document: caus hurt like hell ive tell
+Similarity Score: 0.5533696149725996, Document ID: 765138_8, Document: would hurt like hell someon doesnt love return true love doesnt go one way goe way true love would happi person love even mean hesh happier someon el
+
+Query ID: 2479423
+Query: rail keypad drive
+Query Count: 27
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 0.0, 0.5, 0.3333333333333333, 0.5, 0.6, 0.5, 0.42857142857142855, 0.375, 0.3333333333333333
+Similarity Score: 0.5382691129176117, Document ID: 1453334_11, Document: mayb cheap make keypad
+Similarity Score: 0.5191359008339836, Document ID: 29736_0, Document: keypad make place keypad go normal atm use drive-thru one wouldnt cost effect make seper one without braill
+Similarity Score: 0.48434197295761056, Document ID: 4089749_3, Document: good question braill keypad drive-up atm
+Similarity Score: 0.400668208461574, Document ID: 876972_4, Document: cheap manufactur one set keypad use atm machin regardless locat creat one keypad drive-thru one walk up etc sinc exist tt also ensur sight-onli version never instal blind person would need
+
+Query ID: 2862887
+Query: care spike dragon fee
+Query Count: 33
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.25, 0.4, 0.3333333333333333, 0.2857142857142857, 0.25, 0.3333333333333333
+Similarity Score: 0.43847682377741365, Document ID: 4458783_12, Document: fruit shall know take book revel exampl john say saw dragon wasnt liter true dragon use attribut dragon appear behavior relat antichrist definit isnt dragon human
+Similarity Score: 0.4298901587446084, Document ID: 3801963_3, Document: dragon peel
+Similarity Score: 0.41273316665470877, Document ID: 3194837_1, Document: spike drink put alcohol ex georg spike punch pour jack daniel
+
+Query ID: 4250296
+Query: doctor patient resuscit order
+Query Count: 34
+Relevant Documents: 5
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.3333333333333333, 0.25, 0.4, 0.3333333333333333, 0.42857142857142855, 0.5, 0.5555555555555556
+Similarity Score: 0.40798919355010677, Document ID: 3655585_4, Document: ethic dont believ circumst doctor refus see pregnant patient refer patient anoth doctor dont feel comfort see patient legal patient pay bill still dont think refus see patient patient medic concern pregnanc
+Similarity Score: 0.361297723714437, Document ID: 2641742_3, Document: mayb caus doctor depress see patient
+Similarity Score: 0.35834320654548035, Document ID: 568025_0, Document: health record hospit determin lot patient need know kind medic administ thing patient patient unabl commun doctor
+Similarity Score: 0.34203002135855926, Document ID: 2628784_2, Document: help doctor take care patient ect
+Similarity Score: 0.340403620129386, Document ID: 2188621_3, Document: realli want know well let see triag registr vital sign iv medic administr council peopl patient advoc insert cathet draw blood paper work kazooo call doctor order call doctor order clean vomit fece hold die patient hand comfort patient cri patient hold scream kid get stitch run code patient essenti dead pray god get back look eye someon tell person love dead fight administr er pack patient keep come arent enough bed nurs take care peopl keep come fight nurs differ floor hospit come get patient admit clear bed get next patient gown gear incom trauma pray god em exager extent injuri take verbal abus patient seem think waitress duti fault wait 3 hr come er cold want know wait long see order what wrong get seriou see first that emerg room fight lab want result test fight cat scan result fight xray patient wait hour work 12 hr straight think may give go bathroom show work time tire tell havent lunch break want continu
+
+Query ID: 3872395
+Query: easi way get toddler go sleep without mean
+Query Count: 39
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 4473137
+Query: caus effect rise christian
+Query Count: 28
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 1509982
+Query: th chemistri basic scienc
+Query Count: 23
+Relevant Documents: 1
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.1111111111111111
+Similarity Score: 0.424057405234736, Document ID: 1016733_0, Document: elementari chemistri physic basi technolog innov technolog appli scienc appli scienc need scienc first physic chemistri larg form scienc foundat whole engin stand first sight may abl see foundat engin progress much take first ever step co scienc
+
+Query ID: 3269759
+Query: artifici intellig
+Query Count: 34
+Relevant Documents: 4
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.25, 0.4, 0.5, 0.42857142857142855, 0.5, 0.4444444444444444
+Similarity Score: 0.6032829722522532, Document ID: 3269759_2, Document: intellig contain someth artifici like comput could machin park meter someth man creat intellig plant flower anim real intellig
+Similarity Score: 0.603157747229899, Document ID: 3269759_5, Document: artifici intellig electron devic make thing similar way human
+Similarity Score: 0.5795097162011288, Document ID: 3269759_6, Document: whem intellig artifici duh
+Similarity Score: 0.5610352309781979, Document ID: 3269759_1, Document: artifici intellig ai comput level human thought
+
+Query ID: 3723508
+Query: differ ox bull
+Query Count: 20
+Relevant Documents: 9
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 1.0, 0.8333333333333334, 0.8571428571428571, 0.875, 0.8888888888888888
+Similarity Score: 0.7122761321671929, Document ID: 2915686_2, Document: bull tell lie ox short botox bull
+Similarity Score: 0.6574302086706181, Document ID: 3723508_2, Document: ox norvegin bull
+Similarity Score: 0.6560187450283861, Document ID: 2032896_1, Document: bull ball ox ball
+Similarity Score: 0.626161100212816, Document ID: 2032896_4, Document: ball ox
+Similarity Score: 0.5958394937872399, Document ID: 2915686_3, Document: ox bread anim bull refer sex male 4 leg anim like antilop ox sheep cow
+Similarity Score: 0.5715494441853113, Document ID: 2633111_0, Document: old folk say mean ox bull win battl bull think everyth fair ox bull loo think someth do correct situat peopl alli win think everyth fair proper loo want investig rule chang fine imprison impeach person
+Similarity Score: 0.5311995515087694, Document ID: 2915686_1, Document: ox castrat
+Similarity Score: 0.5185379542698116, Document ID: 3723508_3, Document: im sure differ differ houstin angu bull castrat doesnt make ox make steer
+Similarity Score: 0.5093455871660019, Document ID: 3723508_1, Document: bull colour blind ox colour blind
+
+Query ID: 1282199
+Query: hide cut wrist
+Query Count: 33
+Relevant Documents: 5
+Total Returned Documents: 10
+Precision List: 1.0, 0.5, 0.6666666666666666, 0.75, 0.6, 0.6666666666666666, 0.5714285714285714, 0.5, 0.5555555555555556
+Similarity Score: 0.6986431543400313, Document ID: 716946_6, Document: wrist
+Similarity Score: 0.5876205771200832, Document ID: 1282199_13, Document: interest find way cut wrist talk someon
+Similarity Score: 0.5556924325416681, Document ID: 2041367_4, Document: wear wrist brace keep wrist straight
+Similarity Score: 0.5193163180701017, Document ID: 578911_2, Document: one lose bloodalso major arteri wrist cut deep hit bleed death anoth one cut get infectionsmi friend new guy get wrist cut infect
+Similarity Score: 0.46677281730504167, Document ID: 1034314_13, Document: limp wrist
+
+Query ID: 4196421
+Query: brilliant
+Query Count: 24
+Relevant Documents: 8
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 1.0, 0.8333333333333334, 0.8571428571428571, 0.875, 0.8888888888888888
+Similarity Score: 1.0, Document ID: 3322405_11, Document: brilliant
+Similarity Score: 0.7999193833108741, Document ID: 2999047_11, Document: brilliant student
+Similarity Score: 0.7454386240015362, Document ID: 1794143_12, Document: ever ask brilliant question brilliant- - other idiot grow matur bad
+Similarity Score: 0.7152173046928963, Document ID: 3847390_7, Document: tri eat x brilliant engin
+Similarity Score: 0.6916808402420234, Document ID: 4233450_2, Document: your brilliant god bless u
+Similarity Score: 0.6276761251317348, Document ID: 4196421_3, Document: learn other see brilliant path
+Similarity Score: 0.5998791718043324, Document ID: 2060239_7, Document: guin black brilliant
+Similarity Score: 0.5802753056267489, Document ID: 1801375_1, Document: glorifi day brilliant smile
+
+Query ID: 1850323
+Query: men never wash hand use urinaltoilet
+Query Count: 41
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.3333333333333333, 0.25, 0.2, 0.16666666666666666, 0.14285714285714285, 0.25, 0.2222222222222222
+Similarity Score: 0.7095216487044851, Document ID: 3681795_21, Document: wash hand
+Similarity Score: 0.5584290438703199, Document ID: 1850323_6, Document: know men wash hand hand take leak men think sinc outsid organ littl peni dirti
+
+Query ID: 2192891
+Query: brace put hurt lot
+Query Count: 38
+Relevant Documents: 2
+Total Returned Documents: 10
+Precision List: 0.0, 0.5, 0.6666666666666666, 0.5, 0.4, 0.3333333333333333, 0.2857142857142857, 0.25, 0.2222222222222222
+Similarity Score: 0.6258231786552896, Document ID: 2322656_1, Document: would know need brace peopl dont need brace want ask problem could correct someth brace
+Similarity Score: 0.5069397283760767, Document ID: 1900884_3, Document: brace put smile back lil gangsta kid ya feel benefit brace make confid
+
+Query ID: 4406669
+Query: order tico bell
+Query Count: 68
+Relevant Documents: 3
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.2, 0.3333333333333333, 0.2857142857142857, 0.25, 0.3333333333333333
+Similarity Score: 0.3625975553722972, Document ID: 4406669_4, Document: well hate taco bell dont order anyth
+Similarity Score: 0.3394809125885561, Document ID: 2250327_3, Document: get car drive taco bell order easy way
+Similarity Score: 0.3269640126581361, Document ID: 3164414_13, Document: taco bell
+
+Query ID: 1582877
+Query: go school real world dont use
+Query Count: 37
+Relevant Documents: 0
+Total Returned Documents: 10
+Precision List: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+Query ID: 1340574
+Query: peopl go church easter sunday never go christma
+Query Count: 40
+Relevant Documents: 7
+Total Returned Documents: 10
+Precision List: 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.8571428571428571, 0.75, 0.6666666666666666
+Similarity Score: 0.5873942601994808, Document ID: 1757874_6, Document: 2 day use term easter-east sunday easter monday day easter although sunday alway day easter actual celebr monday often holiday mayb tri look anoth way rather term easter sunday describ easter sunday may describ sunday easter sunday year ever easter that 2 differ perspect consid
+Similarity Score: 0.5681912085973669, Document ID: 1340574_2, Document: well go church guess peopl consid sunday part weekend -- time whatev want basic -- rather day god set asid sabbath nonetheless want good peopl go easter christma day think import go simpli dont think import go everi sunday
+Similarity Score: 0.5391112334404873, Document ID: 1340574_6, Document: believ go church satisfi god think god care live sit church 1-3 hour sunday morn think peopl go church see other go church almost everi sunday want
+Similarity Score: 0.5228857808178999, Document ID: 1340574_3, Document: think want seem like actual care christ dont believ enough go church everi sunday wednesday know church usual someth special go christma easter would like see church isnt import go everi sundaywednesday say theyr busi theyll get around
+Similarity Score: 0.5209621352038816, Document ID: 1972970_3, Document: easter sunday april
+Similarity Score: 0.5040454599935513, Document ID: 3614621_7, Document: easter sunday alway 40 day lend begin easter season doesnt end pentecost 50 day easter sunday
+Similarity Score: 0.48858345217862664, Document ID: 2980015_23, Document: mine isbut would stop peopl go worship need money get church go saturday listen dont like work sunday dont buy anyth sunday reason peopl work sunday peopl shop sunday simpl econom
+
+Query ID: 1971899
+Query: masturbat
+Query Count: 12
+Relevant Documents: 1
+Total Returned Documents: 1
+Precision List: 1.0
+Similarity Score: 1.0, Document ID: 1971899_6, Document: masturbat
+
